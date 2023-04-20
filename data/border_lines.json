@@ -1,0 +1,3252 @@
+{
+    "struts-sandbox": {
+        "-1-0": {
+            "insertions": 153745,
+            "deletions": 90668,
+            "refactoring_churn": 4390,
+            "commits": 506
+        },
+        "0-1": {
+            "insertions": 410242,
+            "deletions": 257460,
+            "refactoring_churn": 34610,
+            "commits": 1550
+        }
+    },
+    "tez": {
+        "-1-0": {
+            "insertions": 277889,
+            "deletions": 113706,
+            "refactoring_churn": 142140,
+            "commits": 2201
+        },
+        "0-1": {
+            "insertions": 411243,
+            "deletions": 151275,
+            "refactoring_churn": 200562,
+            "commits": 3549
+        },
+        "1-2": {
+            "insertions": 438442,
+            "deletions": 157709,
+            "refactoring_churn": 211928,
+            "commits": 3889
+        }
+    },
+    "commons-beanutils": {
+        "-1-0": {
+            "insertions": 83201,
+            "deletions": 30387,
+            "refactoring_churn": 4559,
+            "commits": 384
+        },
+        "0-1": {
+            "insertions": 126522,
+            "deletions": 53319,
+            "refactoring_churn": 18773,
+            "commits": 1076
+        }
+    },
+    "druid": {
+        "-1-0": {
+            "insertions": 345929,
+            "deletions": 149862,
+            "refactoring_churn": 116844,
+            "commits": 3847
+        },
+        "0-1": {
+            "insertions": 845169,
+            "deletions": 326995,
+            "refactoring_churn": 224175,
+            "commits": 6225
+        },
+        "1-2": {
+            "insertions": 1212894,
+            "deletions": 496665,
+            "refactoring_churn": 358101,
+            "commits": 7529
+        }
+    },
+    "incubator-datasketches-java": {
+        "-1-0": {
+            "insertions": 153503,
+            "deletions": 82784,
+            "refactoring_churn": 55462,
+            "commits": 1007
+        },
+        "0-1": {
+            "insertions": 235029,
+            "deletions": 125048,
+            "refactoring_churn": 95513,
+            "commits": 1779
+        }
+    },
+    "netbeans-mavenutils-nbm-maven-plugin": {
+        "-1-0": {
+            "insertions": 10838,
+            "deletions": 5251,
+            "refactoring_churn": 4317,
+            "commits": 574
+        },
+        "0-1": {
+            "insertions": 26061,
+            "deletions": 22252,
+            "refactoring_churn": 15682,
+            "commits": 1189
+        }
+    },
+    "maven-archetype": {
+        "-1-0": {
+            "insertions": 52423,
+            "deletions": 39635,
+            "refactoring_churn": 28657,
+            "commits": 792
+        },
+        "0-1": {
+            "insertions": 62483,
+            "deletions": 50531,
+            "refactoring_churn": 36871,
+            "commits": 1259
+        }
+    },
+    "sling-org-apache-sling-resourceresolver": {
+        "-1-0": {
+            "insertions": 37452,
+            "deletions": 15317,
+            "refactoring_churn": 19114,
+            "commits": 411
+        }
+    },
+    "sling-whiteboard": {
+        "-1-0": {
+            "insertions": 117650,
+            "deletions": 103206,
+            "refactoring_churn": 34680,
+            "commits": 1292
+        }
+    },
+    "incubator-druid": {
+        "-1-0": {
+            "insertions": 345929,
+            "deletions": 149862,
+            "refactoring_churn": 116844,
+            "commits": 3847
+        },
+        "0-1": {
+            "insertions": 845169,
+            "deletions": 326995,
+            "refactoring_churn": 224175,
+            "commits": 6225
+        },
+        "1-2": {
+            "insertions": 1212894,
+            "deletions": 496665,
+            "refactoring_churn": 358101,
+            "commits": 7529
+        }
+    },
+    "commons-codec": {
+        "-1-0": {
+            "insertions": 29442,
+            "deletions": 16443,
+            "refactoring_churn": 2590,
+            "commits": 454
+        },
+        "0-1": {
+            "insertions": 73458,
+            "deletions": 40014,
+            "refactoring_churn": 18014,
+            "commits": 1453
+        },
+        "1-2": {
+            "insertions": 94632,
+            "deletions": 53317,
+            "refactoring_churn": 22808,
+            "commits": 1917
+        }
+    },
+    "incubator-taverna-workbench": {
+        "-1-0": {
+            "insertions": 200215,
+            "deletions": 128183,
+            "refactoring_churn": 41110,
+            "commits": 1985
+        }
+    },
+    "commons-exec": {
+        "-1-0": {
+            "insertions": 16828,
+            "deletions": 9038,
+            "refactoring_churn": 5469,
+            "commits": 606
+        }
+    },
+    "qpid-jms-amqp-0-x": {
+        "-1-0": {
+            "insertions": 493503,
+            "deletions": 328157,
+            "refactoring_churn": 71766,
+            "commits": 1787
+        },
+        "0-1": {
+            "insertions": 750054,
+            "deletions": 523977,
+            "refactoring_churn": 122861,
+            "commits": 3396
+        },
+        "1-2": {
+            "insertions": 983888,
+            "deletions": 688231,
+            "refactoring_churn": 161312,
+            "commits": 4228
+        },
+        "2-3": {
+            "insertions": 1394896,
+            "deletions": 984853,
+            "refactoring_churn": 298156,
+            "commits": 6108
+        }
+    },
+    "vxquery": {
+        "-1-0": {
+            "insertions": 67211,
+            "deletions": 45870,
+            "refactoring_churn": 26840,
+            "commits": 788
+        }
+    },
+    "maven-wagon": {
+        "-1-0": {
+            "insertions": 50642,
+            "deletions": 24122,
+            "refactoring_churn": 14339,
+            "commits": 558
+        },
+        "0-1": {
+            "insertions": 73585,
+            "deletions": 35961,
+            "refactoring_churn": 23348,
+            "commits": 1102
+        }
+    },
+    "karaf-cellar": {
+        "-1-0": {
+            "insertions": 101428,
+            "deletions": 40856,
+            "refactoring_churn": 25032,
+            "commits": 2223
+        }
+    },
+    "camel-spring-boot": {
+        "-1-0": {
+            "insertions": 396426,
+            "deletions": 149667,
+            "refactoring_churn": 76394,
+            "commits": 4322
+        },
+        "0-1": {
+            "insertions": 949531,
+            "deletions": 301141,
+            "refactoring_churn": 195293,
+            "commits": 10407
+        },
+        "1-2": {
+            "insertions": 1217218,
+            "deletions": 373991,
+            "refactoring_churn": 250088,
+            "commits": 14021
+        },
+        "2-3": {
+            "insertions": 1791588,
+            "deletions": 517997,
+            "refactoring_churn": 423808,
+            "commits": 21320
+        }
+    },
+    "synapse": {
+        "-1-0": {
+            "insertions": 156984,
+            "deletions": 66672,
+            "refactoring_churn": 20306,
+            "commits": 1121
+        },
+        "0-1": {
+            "insertions": 1098642,
+            "deletions": 567181,
+            "refactoring_churn": 164766,
+            "commits": 7093
+        },
+        "1-2": {
+            "insertions": 1267687,
+            "deletions": 650074,
+            "refactoring_churn": 220218,
+            "commits": 9813
+        },
+        "2-3": {
+            "insertions": 1927965,
+            "deletions": 971219,
+            "refactoring_churn": 275512,
+            "commits": 12989
+        }
+    },
+    "tomee": {
+        "-1-0": {
+            "insertions": 478623,
+            "deletions": 183302,
+            "refactoring_churn": 85367,
+            "commits": 1782
+        },
+        "0-1": {
+            "insertions": 690648,
+            "deletions": 245533,
+            "refactoring_churn": 133736,
+            "commits": 2938
+        },
+        "1-2": {
+            "insertions": 847907,
+            "deletions": 315808,
+            "refactoring_churn": 181855,
+            "commits": 5469
+        },
+        "2-3": {
+            "insertions": 2702031,
+            "deletions": 2054720,
+            "refactoring_churn": 286863,
+            "commits": 9553
+        }
+    },
+    "commons-csv": {
+        "-1-0": {
+            "insertions": 24506,
+            "deletions": 19884,
+            "refactoring_churn": 11430,
+            "commits": 894
+        },
+        "0-1": {
+            "insertions": 41092,
+            "deletions": 26449,
+            "refactoring_churn": 15557,
+            "commits": 1501
+        }
+    },
+    "commons-math": {
+        "-1-0": {
+            "insertions": 137373,
+            "deletions": 83471,
+            "refactoring_churn": 13883,
+            "commits": 930
+        },
+        "0-1": {
+            "insertions": 340764,
+            "deletions": 190764,
+            "refactoring_churn": 64870,
+            "commits": 2127
+        },
+        "1-2": {
+            "insertions": 469661,
+            "deletions": 286034,
+            "refactoring_churn": 98985,
+            "commits": 3254
+        },
+        "2-3": {
+            "insertions": 701116,
+            "deletions": 387060,
+            "refactoring_churn": 218712,
+            "commits": 5415
+        }
+    },
+    "incubator-brooklyn": {
+        "-1-0": {
+            "insertions": 228601,
+            "deletions": 66815,
+            "refactoring_churn": 64254,
+            "commits": 5285
+        },
+        "0-1": {
+            "insertions": 686812,
+            "deletions": 293521,
+            "refactoring_churn": 251503,
+            "commits": 10706
+        }
+    },
+    "maven": {
+        "-1-0": {
+            "insertions": 236959,
+            "deletions": 168740,
+            "refactoring_churn": 80691,
+            "commits": 4507
+        },
+        "0-1": {
+            "insertions": 383527,
+            "deletions": 330933,
+            "refactoring_churn": 122450,
+            "commits": 7308
+        },
+        "1-2": {
+            "insertions": 575685,
+            "deletions": 484339,
+            "refactoring_churn": 227481,
+            "commits": 9811
+        },
+        "2-3": {
+            "insertions": 621137,
+            "deletions": 505947,
+            "refactoring_churn": 245464,
+            "commits": 10795
+        }
+    },
+    "incubator-hivemall": {
+        "-1-0": {
+            "insertions": 82709,
+            "deletions": 26954,
+            "refactoring_churn": 32925,
+            "commits": 1344
+        }
+    },
+    "phoenix": {
+        "-1-0": {
+            "insertions": 773296,
+            "deletions": 296882,
+            "refactoring_churn": 323297,
+            "commits": 4303
+        },
+        "0-1": {
+            "insertions": 1670911,
+            "deletions": 703870,
+            "refactoring_churn": 788688,
+            "commits": 9879
+        },
+        "1-2": {
+            "insertions": 2085501,
+            "deletions": 963505,
+            "refactoring_churn": 987320,
+            "commits": 12567
+        }
+    },
+    "incubator-tamaya": {
+        "-1-0": {
+            "insertions": 150998,
+            "deletions": 132898,
+            "refactoring_churn": 36245,
+            "commits": 1285
+        }
+    },
+    "crunch": {
+        "-1-0": {
+            "insertions": 77167,
+            "deletions": 29020,
+            "refactoring_churn": 16712,
+            "commits": 723
+        },
+        "0-1": {
+            "insertions": 123283,
+            "deletions": 35961,
+            "refactoring_churn": 21360,
+            "commits": 1132
+        }
+    },
+    "jclouds-labs": {
+        "-1-0": {
+            "insertions": 642643,
+            "deletions": 421211,
+            "refactoring_churn": 101872,
+            "commits": 1491
+        },
+        "0-1": {
+            "insertions": 891477,
+            "deletions": 778264,
+            "refactoring_churn": 130768,
+            "commits": 2138
+        }
+    },
+    "brooklyn-library": {
+        "-1-0": {
+            "insertions": 53024,
+            "deletions": 24822,
+            "refactoring_churn": 14506,
+            "commits": 1586
+        },
+        "0-1": {
+            "insertions": 132099,
+            "deletions": 72007,
+            "refactoring_churn": 37007,
+            "commits": 2920
+        },
+        "1-2": {
+            "insertions": 140787,
+            "deletions": 77100,
+            "refactoring_churn": 40846,
+            "commits": 3102
+        }
+    },
+    "myfaces": {
+        "-1-0": {
+            "insertions": 126379,
+            "deletions": 85980,
+            "refactoring_churn": 21170,
+            "commits": 1158
+        },
+        "0-1": {
+            "insertions": 329908,
+            "deletions": 176297,
+            "refactoring_churn": 72085,
+            "commits": 2971
+        },
+        "1-2": {
+            "insertions": 851151,
+            "deletions": 518637,
+            "refactoring_churn": 111305,
+            "commits": 4297
+        },
+        "2-3": {
+            "insertions": 955431,
+            "deletions": 551202,
+            "refactoring_churn": 142714,
+            "commits": 5182
+        }
+    },
+    "mahout": {
+        "-1-0": {
+            "insertions": 408064,
+            "deletions": 257013,
+            "refactoring_churn": 45529,
+            "commits": 1246
+        },
+        "0-1": {
+            "insertions": 610820,
+            "deletions": 426843,
+            "refactoring_churn": 93754,
+            "commits": 2477
+        },
+        "1-2": {
+            "insertions": 663962,
+            "deletions": 477903,
+            "refactoring_churn": 111509,
+            "commits": 3124
+        },
+        "2-3": {
+            "insertions": 748866,
+            "deletions": 561107,
+            "refactoring_churn": 120323,
+            "commits": 4104
+        }
+    },
+    "empire-db": {
+        "-1-0": {
+            "insertions": 137979,
+            "deletions": 64768,
+            "refactoring_churn": 15599,
+            "commits": 655
+        },
+        "0-1": {
+            "insertions": 171450,
+            "deletions": 78452,
+            "refactoring_churn": 25866,
+            "commits": 1094
+        }
+    },
+    "juddi": {
+        "-1-0": {
+            "insertions": 340799,
+            "deletions": 209637,
+            "refactoring_churn": 10490,
+            "commits": 840
+        },
+        "0-1": {
+            "insertions": 460340,
+            "deletions": 243308,
+            "refactoring_churn": 42520,
+            "commits": 2204
+        },
+        "1-2": {
+            "insertions": 635411,
+            "deletions": 334376,
+            "refactoring_churn": 81765,
+            "commits": 2887
+        }
+    },
+    "roller": {
+        "-1-0": {
+            "insertions": 420473,
+            "deletions": 300805,
+            "refactoring_churn": 81824,
+            "commits": 3007
+        },
+        "0-1": {
+            "insertions": 461773,
+            "deletions": 342530,
+            "refactoring_churn": 90752,
+            "commits": 3553
+        },
+        "1-2": {
+            "insertions": 606296,
+            "deletions": 521396,
+            "refactoring_churn": 102548,
+            "commits": 4045
+        },
+        "2-3": {
+            "insertions": 625240,
+            "deletions": 552120,
+            "refactoring_churn": 114605,
+            "commits": 4682
+        }
+    },
+    "tinkerpop": {
+        "-1-0": {
+            "insertions": 386344,
+            "deletions": 249696,
+            "refactoring_churn": 678191,
+            "commits": 7000
+        },
+        "0-1": {
+            "insertions": 544971,
+            "deletions": 333666,
+            "refactoring_churn": 888932,
+            "commits": 11140
+        },
+        "1-2": {
+            "insertions": 614565,
+            "deletions": 363969,
+            "refactoring_churn": 956412,
+            "commits": 12738
+        }
+    },
+    "opennlp": {
+        "-1-0": {
+            "insertions": 326168,
+            "deletions": 229923,
+            "refactoring_churn": 14749,
+            "commits": 1097
+        },
+        "0-1": {
+            "insertions": 395543,
+            "deletions": 275881,
+            "refactoring_churn": 25487,
+            "commits": 1793
+        }
+    },
+    "servicecomb-java-chassis": {
+        "-1-0": {
+            "insertions": 322550,
+            "deletions": 182613,
+            "refactoring_churn": 58403,
+            "commits": 2323
+        }
+    },
+    "httpcomponents-core": {
+        "-1-0": {
+            "insertions": 84712,
+            "deletions": 35006,
+            "refactoring_churn": 31493,
+            "commits": 838
+        },
+        "0-1": {
+            "insertions": 138955,
+            "deletions": 68379,
+            "refactoring_churn": 49887,
+            "commits": 1503
+        },
+        "1-2": {
+            "insertions": 181624,
+            "deletions": 90312,
+            "refactoring_churn": 70739,
+            "commits": 1875
+        },
+        "2-3": {
+            "insertions": 235410,
+            "deletions": 150517,
+            "refactoring_churn": 100111,
+            "commits": 2547
+        }
+    },
+    "hadoop-ozone": {
+        "-1-0": {
+            "insertions": 410708,
+            "deletions": 203745,
+            "refactoring_churn": 156106,
+            "commits": 2429
+        }
+    },
+    "xalan-java": {
+        "-1-0": {
+            "insertions": 657527,
+            "deletions": 770832,
+            "refactoring_churn": 69241,
+            "commits": 3947
+        },
+        "0-1": {
+            "insertions": 1225756,
+            "deletions": 1122596,
+            "refactoring_churn": 108476,
+            "commits": 5431
+        }
+    },
+    "flink": {
+        "-1-0": {
+            "insertions": 957441,
+            "deletions": 527255,
+            "refactoring_churn": 181755,
+            "commits": 2871
+        },
+        "0-1": {
+            "insertions": 1899592,
+            "deletions": 1203175,
+            "refactoring_churn": 465290,
+            "commits": 7288
+        },
+        "1-2": {
+            "insertions": 2558163,
+            "deletions": 1503265,
+            "refactoring_churn": 691291,
+            "commits": 11282
+        },
+        "2-3": {
+            "insertions": 4199056,
+            "deletions": 2228582,
+            "refactoring_churn": 1220040,
+            "commits": 22542
+        }
+    },
+    "myfaces-trinidad": {
+        "-1-0": {
+            "insertions": 1260523,
+            "deletions": 897598,
+            "refactoring_churn": 138003,
+            "commits": 2824
+        },
+        "0-1": {
+            "insertions": 1772632,
+            "deletions": 1312927,
+            "refactoring_churn": 181760,
+            "commits": 4412
+        },
+        "1-2": {
+            "insertions": 1839044,
+            "deletions": 1349601,
+            "refactoring_churn": 196217,
+            "commits": 5100
+        }
+    },
+    "maven-dependency-plugin": {
+        "-1-0": {
+            "insertions": 44046,
+            "deletions": 30668,
+            "refactoring_churn": 6984,
+            "commits": 389
+        },
+        "0-1": {
+            "insertions": 53657,
+            "deletions": 37995,
+            "refactoring_churn": 17568,
+            "commits": 833
+        }
+    },
+    "mina-sshd": {
+        "-1-0": {
+            "insertions": 109989,
+            "deletions": 42110,
+            "refactoring_churn": 42793,
+            "commits": 665
+        },
+        "0-1": {
+            "insertions": 258692,
+            "deletions": 109099,
+            "refactoring_churn": 125800,
+            "commits": 1462
+        },
+        "1-2": {
+            "insertions": 329453,
+            "deletions": 144923,
+            "refactoring_churn": 162814,
+            "commits": 2103
+        }
+    },
+    "helix": {
+        "-1-0": {
+            "insertions": 398076,
+            "deletions": 260936,
+            "refactoring_churn": 64932,
+            "commits": 1641
+        },
+        "0-1": {
+            "insertions": 542348,
+            "deletions": 363237,
+            "refactoring_churn": 110692,
+            "commits": 2368
+        },
+        "1-2": {
+            "insertions": 617559,
+            "deletions": 390512,
+            "refactoring_churn": 146540,
+            "commits": 3012
+        },
+        "2-3": {
+            "insertions": 839607,
+            "deletions": 486107,
+            "refactoring_churn": 219354,
+            "commits": 4334
+        }
+    },
+    "incubator-iotdb": {
+        "-1-0": {
+            "insertions": 756371,
+            "deletions": 579541,
+            "refactoring_churn": 166121,
+            "commits": 2422
+        }
+    },
+    "cxf": {
+        "-1-0": {
+            "insertions": 214609,
+            "deletions": 70541,
+            "refactoring_churn": 77477,
+            "commits": 2307
+        },
+        "0-1": {
+            "insertions": 552965,
+            "deletions": 212705,
+            "refactoring_churn": 220110,
+            "commits": 6679
+        },
+        "1-2": {
+            "insertions": 889323,
+            "deletions": 361320,
+            "refactoring_churn": 349303,
+            "commits": 11945
+        },
+        "2-3": {
+            "insertions": 1281501,
+            "deletions": 502047,
+            "refactoring_churn": 514525,
+            "commits": 19844
+        }
+    },
+    "shiro": {
+        "-1-0": {
+            "insertions": 116331,
+            "deletions": 75624,
+            "refactoring_churn": 38063,
+            "commits": 893
+        },
+        "0-1": {
+            "insertions": 239608,
+            "deletions": 164726,
+            "refactoring_churn": 62535,
+            "commits": 1657
+        },
+        "1-2": {
+            "insertions": 266679,
+            "deletions": 248094,
+            "refactoring_churn": 69615,
+            "commits": 2018
+        }
+    },
+    "jclouds": {
+        "-1-0": {
+            "insertions": 859115,
+            "deletions": 460577,
+            "refactoring_churn": 189176,
+            "commits": 3112
+        },
+        "0-1": {
+            "insertions": 2432532,
+            "deletions": 2191591,
+            "refactoring_churn": 468440,
+            "commits": 9076
+        },
+        "1-2": {
+            "insertions": 2477309,
+            "deletions": 2215278,
+            "refactoring_churn": 475512,
+            "commits": 9539
+        },
+        "2-3": {
+            "insertions": 2582368,
+            "deletions": 2264637,
+            "refactoring_churn": 494828,
+            "commits": 10526
+        }
+    },
+    "sling-org-apache-sling-starter": {
+        "-1-0": {
+            "insertions": 0,
+            "deletions": 0,
+            "refactoring_churn": 0,
+            "commits": 306
+        },
+        "0-1": {
+            "insertions": 0,
+            "deletions": 0,
+            "refactoring_churn": 0,
+            "commits": 798
+        },
+        "1-2": {
+            "insertions": 380,
+            "deletions": 56,
+            "refactoring_churn": 15,
+            "commits": 1157
+        }
+    },
+    "apex-malhar": {
+        "-1-0": {
+            "insertions": 374110,
+            "deletions": 212982,
+            "refactoring_churn": 111132,
+            "commits": 3924
+        },
+        "0-1": {
+            "insertions": 737275,
+            "deletions": 378740,
+            "refactoring_churn": 204022,
+            "commits": 6120
+        }
+    },
+    "apex-core": {
+        "-1-0": {
+            "insertions": 202841,
+            "deletions": 149835,
+            "refactoring_churn": 135281,
+            "commits": 3464
+        },
+        "0-1": {
+            "insertions": 280136,
+            "deletions": 187957,
+            "refactoring_churn": 176493,
+            "commits": 4793
+        }
+    },
+    "maven-plugin-tools": {
+        "-1-0": {
+            "insertions": 34436,
+            "deletions": 15087,
+            "refactoring_churn": 13454,
+            "commits": 835
+        }
+    },
+    "incubator-shardingsphere": {
+        "-1-0": {
+            "insertions": 388470,
+            "deletions": 383140,
+            "refactoring_churn": 151717,
+            "commits": 5056
+        },
+        "0-1": {
+            "insertions": 1219571,
+            "deletions": 1074299,
+            "refactoring_churn": 540853,
+            "commits": 24971
+        }
+    },
+    "oodt": {
+        "-1-0": {
+            "insertions": 787672,
+            "deletions": 127018,
+            "refactoring_churn": 41787,
+            "commits": 1322
+        },
+        "0-1": {
+            "insertions": 1311808,
+            "deletions": 169645,
+            "refactoring_churn": 57206,
+            "commits": 2276
+        }
+    },
+    "directory-kerby": {
+        "-1-0": {
+            "insertions": 541183,
+            "deletions": 349634,
+            "refactoring_churn": 62825,
+            "commits": 1335
+        }
+    },
+    "attic-onami": {},
+    "incubator-dolphinscheduler": {},
+    "bval": {
+        "-1-0": {
+            "insertions": 178762,
+            "deletions": 140327,
+            "refactoring_churn": 38433,
+            "commits": 1312
+        }
+    },
+    "myfaces-extcdi": {
+        "-1-0": {
+            "insertions": 129711,
+            "deletions": 24843,
+            "refactoring_churn": 44265,
+            "commits": 1142
+        }
+    },
+    "cxf-fediz": {
+        "-1-0": {
+            "insertions": 69577,
+            "deletions": 27476,
+            "refactoring_churn": 25148,
+            "commits": 699
+        },
+        "0-1": {
+            "insertions": 124196,
+            "deletions": 59463,
+            "refactoring_churn": 51703,
+            "commits": 2019
+        },
+        "1-2": {
+            "insertions": 138348,
+            "deletions": 68478,
+            "refactoring_churn": 58763,
+            "commits": 2408
+        }
+    },
+    "calcite-avatica": {
+        "-1-0": {
+            "insertions": 626624,
+            "deletions": 351944,
+            "refactoring_churn": 116636,
+            "commits": 1201
+        },
+        "0-1": {
+            "insertions": 924479,
+            "deletions": 458770,
+            "refactoring_churn": 255292,
+            "commits": 2359
+        },
+        "1-2": {
+            "insertions": 940685,
+            "deletions": 882826,
+            "refactoring_churn": 292795,
+            "commits": 2610
+        }
+    },
+    "karaf-jclouds": {
+        "-1-0": {
+            "insertions": 42160,
+            "deletions": 22048,
+            "refactoring_churn": 6544,
+            "commits": 797
+        }
+    },
+    "mina-ftpserver": {
+        "-1-0": {
+            "insertions": 194751,
+            "deletions": 160160,
+            "refactoring_churn": 21324,
+            "commits": 711
+        }
+    },
+    "activemq-artemis": {
+        "-1-0": {
+            "insertions": 1094746,
+            "deletions": 416782,
+            "refactoring_churn": 80966,
+            "commits": 925
+        },
+        "0-1": {
+            "insertions": 1471535,
+            "deletions": 637344,
+            "refactoring_churn": 245358,
+            "commits": 4513
+        },
+        "1-2": {
+            "insertions": 1563559,
+            "deletions": 662089,
+            "refactoring_churn": 282678,
+            "commits": 5422
+        }
+    },
+    "incubator-taverna-language": {
+        "-1-0": {
+            "insertions": 147693,
+            "deletions": 57818,
+            "refactoring_churn": 53083,
+            "commits": 2616
+        }
+    },
+    "marmotta": {
+        "-1-0": {
+            "insertions": 409244,
+            "deletions": 164369,
+            "refactoring_churn": 81107,
+            "commits": 1933
+        }
+    },
+    "sling-org-apache-sling-engine": {
+        "-1-0": {
+            "insertions": 9982,
+            "deletions": 7278,
+            "refactoring_churn": 7517,
+            "commits": 247
+        }
+    },
+    "incubator-retired-wave": {
+        "-1-0": {
+            "insertions": 608185,
+            "deletions": 151607,
+            "refactoring_churn": 47147,
+            "commits": 522
+        }
+    },
+    "logging-log4j": {
+        "-1-0": {
+            "insertions": 169062,
+            "deletions": 41721,
+            "refactoring_churn": 37245,
+            "commits": 1733
+        },
+        "0-1": {
+            "insertions": 357570,
+            "deletions": 135842,
+            "refactoring_churn": 113739,
+            "commits": 6816
+        },
+        "1-2": {
+            "insertions": 482744,
+            "deletions": 204629,
+            "refactoring_churn": 162205,
+            "commits": 9441
+        },
+        "2-3": {
+            "insertions": 651125,
+            "deletions": 285416,
+            "refactoring_churn": 192352,
+            "commits": 11451
+        }
+    },
+    "netbeans-mavenutils-nb-repository-plugin": {
+        "-1-0": {
+            "insertions": 10838,
+            "deletions": 5251,
+            "refactoring_churn": 4317,
+            "commits": 574
+        },
+        "0-1": {
+            "insertions": 25160,
+            "deletions": 27460,
+            "refactoring_churn": 15386,
+            "commits": 1187
+        }
+    },
+    "commons-scxml": {
+        "-1-0": {
+            "insertions": 47570,
+            "deletions": 14735,
+            "refactoring_churn": 17105,
+            "commits": 836
+        }
+    },
+    "samza": {
+        "-1-0": {
+            "insertions": 29316,
+            "deletions": 8412,
+            "refactoring_churn": 3088,
+            "commits": 607
+        },
+        "0-1": {
+            "insertions": 194830,
+            "deletions": 56951,
+            "refactoring_churn": 32288,
+            "commits": 1443
+        },
+        "1-2": {
+            "insertions": 293477,
+            "deletions": 91037,
+            "refactoring_churn": 63650,
+            "commits": 2275
+        }
+    },
+    "commons-fileupload": {
+        "-1-0": {
+            "insertions": 18656,
+            "deletions": 9067,
+            "refactoring_churn": 3219,
+            "commits": 368
+        },
+        "0-1": {
+            "insertions": 40419,
+            "deletions": 16870,
+            "refactoring_churn": 11659,
+            "commits": 1135
+        }
+    },
+    "qpid-broker-j": {
+        "-1-0": {
+            "insertions": 493503,
+            "deletions": 328157,
+            "refactoring_churn": 71766,
+            "commits": 1787
+        },
+        "0-1": {
+            "insertions": 750054,
+            "deletions": 523977,
+            "refactoring_churn": 122861,
+            "commits": 3396
+        },
+        "1-2": {
+            "insertions": 983888,
+            "deletions": 688231,
+            "refactoring_churn": 161312,
+            "commits": 4228
+        },
+        "2-3": {
+            "insertions": 1394896,
+            "deletions": 984853,
+            "refactoring_churn": 298156,
+            "commits": 6108
+        }
+    },
+    "royale-compiler": {
+        "-1-0": {
+            "insertions": 455405,
+            "deletions": 34826,
+            "refactoring_churn": 33376,
+            "commits": 1007
+        },
+        "0-1": {
+            "insertions": 594048,
+            "deletions": 91096,
+            "refactoring_churn": 93038,
+            "commits": 2637
+        },
+        "1-2": {
+            "insertions": 653619,
+            "deletions": 99823,
+            "refactoring_churn": 115437,
+            "commits": 3421
+        }
+    },
+    "skywalking": {
+        "-1-0": {
+            "insertions": 521159,
+            "deletions": 406564,
+            "refactoring_churn": 74967,
+            "commits": 2899
+        },
+        "0-1": {
+            "insertions": 866256,
+            "deletions": 638383,
+            "refactoring_churn": 106232,
+            "commits": 4923
+        }
+    },
+    "falcon": {
+        "-1-0": {
+            "insertions": 178918,
+            "deletions": 91111,
+            "refactoring_churn": 40594,
+            "commits": 991
+        },
+        "0-1": {
+            "insertions": 335596,
+            "deletions": 299040,
+            "refactoring_churn": 95605,
+            "commits": 2315
+        }
+    },
+    "hama": {
+        "-1-0": {
+            "insertions": 72439,
+            "deletions": 57058,
+            "refactoring_churn": 13964,
+            "commits": 611
+        },
+        "0-1": {
+            "insertions": 198264,
+            "deletions": 121256,
+            "refactoring_churn": 39366,
+            "commits": 1432
+        }
+    },
+    "sling-org-apache-sling-api": {
+        "-1-0": {
+            "insertions": 7723,
+            "deletions": 2121,
+            "refactoring_churn": 2495,
+            "commits": 262
+        }
+    },
+    "ws-wss4j": {
+        "-1-0": {
+            "insertions": 117781,
+            "deletions": 81557,
+            "refactoring_churn": 21321,
+            "commits": 593
+        },
+        "0-1": {
+            "insertions": 328163,
+            "deletions": 172162,
+            "refactoring_churn": 65389,
+            "commits": 1347
+        },
+        "1-2": {
+            "insertions": 589082,
+            "deletions": 417060,
+            "refactoring_churn": 110647,
+            "commits": 1908
+        },
+        "2-3": {
+            "insertions": 670077,
+            "deletions": 452978,
+            "refactoring_churn": 146684,
+            "commits": 2978
+        }
+    },
+    "commons-io": {
+        "-1-0": {
+            "insertions": 60947,
+            "deletions": 36991,
+            "refactoring_churn": 8283,
+            "commits": 642
+        },
+        "0-1": {
+            "insertions": 103998,
+            "deletions": 54566,
+            "refactoring_churn": 26257,
+            "commits": 1549
+        },
+        "1-2": {
+            "insertions": 120157,
+            "deletions": 64206,
+            "refactoring_churn": 37349,
+            "commits": 1934
+        }
+    },
+    "commons-imaging": {
+        "-1-0": {
+            "insertions": 202701,
+            "deletions": 145362,
+            "refactoring_churn": 29527,
+            "commits": 789
+        },
+        "0-1": {
+            "insertions": 228519,
+            "deletions": 159781,
+            "refactoring_churn": 38333,
+            "commits": 1309
+        }
+    },
+    "attic-polygene-java": {
+        "-1-0": {
+            "insertions": 326475,
+            "deletions": 276402,
+            "refactoring_churn": 85245,
+            "commits": 2290
+        },
+        "0-1": {
+            "insertions": 669421,
+            "deletions": 481471,
+            "refactoring_churn": 136756,
+            "commits": 3879
+        },
+        "1-2": {
+            "insertions": 791118,
+            "deletions": 565137,
+            "refactoring_churn": 170670,
+            "commits": 4625
+        }
+    },
+    "geode": {
+        "-1-0": {
+            "insertions": 2766602,
+            "deletions": 1360974,
+            "refactoring_churn": 442904,
+            "commits": 4077
+        },
+        "0-1": {
+            "insertions": 3711450,
+            "deletions": 2069218,
+            "refactoring_churn": 1062422,
+            "commits": 8852
+        }
+    },
+    "maven-assembly-plugin": {
+        "-1-0": {
+            "insertions": 45415,
+            "deletions": 16336,
+            "refactoring_churn": 13062,
+            "commits": 457
+        },
+        "0-1": {
+            "insertions": 72712,
+            "deletions": 39591,
+            "refactoring_churn": 30865,
+            "commits": 972
+        }
+    },
+    "sling-org-apache-sling-event": {
+        "-1-0": {
+            "insertions": 20142,
+            "deletions": 8904,
+            "refactoring_churn": 10678,
+            "commits": 398
+        },
+        "0-1": {
+            "insertions": 55697,
+            "deletions": 40749,
+            "refactoring_churn": 50737,
+            "commits": 882
+        }
+    },
+    "commons-dbcp": {
+        "-1-0": {
+            "insertions": 32851,
+            "deletions": 13715,
+            "refactoring_churn": 3067,
+            "commits": 478
+        },
+        "0-1": {
+            "insertions": 60421,
+            "deletions": 29250,
+            "refactoring_churn": 17790,
+            "commits": 1354
+        },
+        "1-2": {
+            "insertions": 94987,
+            "deletions": 47947,
+            "refactoring_churn": 21986,
+            "commits": 2002
+        }
+    },
+    "activemq": {
+        "-1-0": {
+            "insertions": 391559,
+            "deletions": 297593,
+            "refactoring_churn": 55472,
+            "commits": 3076
+        },
+        "0-1": {
+            "insertions": 594435,
+            "deletions": 373634,
+            "refactoring_churn": 89180,
+            "commits": 5253
+        },
+        "1-2": {
+            "insertions": 1075452,
+            "deletions": 797639,
+            "refactoring_churn": 106213,
+            "commits": 6260
+        },
+        "2-3": {
+            "insertions": 1284171,
+            "deletions": 902388,
+            "refactoring_churn": 213209,
+            "commits": 8933
+        }
+    },
+    "servicemix-bundles": {
+        "-1-0": {
+            "insertions": 28350,
+            "deletions": 521,
+            "refactoring_churn": 12,
+            "commits": 1971
+        },
+        "0-1": {
+            "insertions": 89909,
+            "deletions": 2189,
+            "refactoring_churn": 123,
+            "commits": 7122
+        },
+        "1-2": {
+            "insertions": 91862,
+            "deletions": 3045,
+            "refactoring_churn": 124,
+            "commits": 11191
+        },
+        "2-3": {
+            "insertions": 93036,
+            "deletions": 60711,
+            "refactoring_churn": 2080,
+            "commits": 16716
+        }
+    },
+    "uima-uimaj": {
+        "-1-0": {
+            "insertions": 552257,
+            "deletions": 743537,
+            "refactoring_churn": 52707,
+            "commits": 2967
+        },
+        "0-1": {
+            "insertions": 769495,
+            "deletions": 778269,
+            "refactoring_churn": 73160,
+            "commits": 4236
+        },
+        "1-2": {
+            "insertions": 843835,
+            "deletions": 814145,
+            "refactoring_churn": 107310,
+            "commits": 5147
+        },
+        "2-3": {
+            "insertions": 1024399,
+            "deletions": 912799,
+            "refactoring_churn": 175195,
+            "commits": 7507
+        }
+    },
+    "commons-configuration": {
+        "-1-0": {
+            "insertions": 76140,
+            "deletions": 26438,
+            "refactoring_churn": 7776,
+            "commits": 519
+        },
+        "0-1": {
+            "insertions": 176968,
+            "deletions": 49644,
+            "refactoring_churn": 36837,
+            "commits": 1356
+        },
+        "1-2": {
+            "insertions": 217789,
+            "deletions": 79567,
+            "refactoring_churn": 83237,
+            "commits": 2008
+        },
+        "2-3": {
+            "insertions": 290905,
+            "deletions": 184407,
+            "refactoring_churn": 118708,
+            "commits": 3369
+        }
+    },
+    "struts": {
+        "-1-0": {
+            "insertions": 208072,
+            "deletions": 101186,
+            "refactoring_churn": 38583,
+            "commits": 2025
+        },
+        "0-1": {
+            "insertions": 477584,
+            "deletions": 210069,
+            "refactoring_churn": 47322,
+            "commits": 2849
+        },
+        "1-2": {
+            "insertions": 503006,
+            "deletions": 226325,
+            "refactoring_churn": 54858,
+            "commits": 3361
+        },
+        "2-3": {
+            "insertions": 568806,
+            "deletions": 284043,
+            "refactoring_churn": 65187,
+            "commits": 4538
+        }
+    },
+    "drill": {
+        "-1-0": {
+            "insertions": 471166,
+            "deletions": 169420,
+            "refactoring_churn": 111274,
+            "commits": 1769
+        },
+        "0-1": {
+            "insertions": 843337,
+            "deletions": 288590,
+            "refactoring_churn": 192764,
+            "commits": 3716
+        },
+        "1-2": {
+            "insertions": 1151645,
+            "deletions": 393850,
+            "refactoring_churn": 283203,
+            "commits": 4726
+        }
+    },
+    "incubator-pinot": {
+        "-1-0": {
+            "insertions": 513132,
+            "deletions": 282909,
+            "refactoring_churn": 136542,
+            "commits": 3124
+        },
+        "0-1": {
+            "insertions": 996674,
+            "deletions": 554808,
+            "refactoring_churn": 310728,
+            "commits": 6218
+        },
+        "1-2": {
+            "insertions": 1328090,
+            "deletions": 761976,
+            "refactoring_churn": 429249,
+            "commits": 7902
+        }
+    },
+    "incubator-shardingsphere-example": {},
+    "rocketmq": {
+        "-1-0": {
+            "insertions": 158129,
+            "deletions": 52736,
+            "refactoring_churn": 30225,
+            "commits": 1145
+        }
+    },
+    "deltaspike": {
+        "-1-0": {
+            "insertions": 142842,
+            "deletions": 42560,
+            "refactoring_churn": 33037,
+            "commits": 1163
+        },
+        "0-1": {
+            "insertions": 195927,
+            "deletions": 58713,
+            "refactoring_churn": 45648,
+            "commits": 2064
+        },
+        "1-2": {
+            "insertions": 211751,
+            "deletions": 63810,
+            "refactoring_churn": 51518,
+            "commits": 2385
+        }
+    },
+    "wicket": {
+        "-1-0": {
+            "insertions": 674646,
+            "deletions": 402080,
+            "refactoring_churn": 154090,
+            "commits": 7742
+        },
+        "0-1": {
+            "insertions": 1301461,
+            "deletions": 969603,
+            "refactoring_churn": 262177,
+            "commits": 12822
+        },
+        "1-2": {
+            "insertions": 1446861,
+            "deletions": 1094484,
+            "refactoring_churn": 314418,
+            "commits": 14593
+        },
+        "2-3": {
+            "insertions": 1658098,
+            "deletions": 1192326,
+            "refactoring_churn": 397382,
+            "commits": 18948
+        }
+    },
+    "hive": {
+        "-1-0": {
+            "insertions": 331106,
+            "deletions": 166682,
+            "refactoring_churn": 111678,
+            "commits": 1213
+        },
+        "0-1": {
+            "insertions": 1696615,
+            "deletions": 1122875,
+            "refactoring_churn": 198394,
+            "commits": 2776
+        },
+        "1-2": {
+            "insertions": 2553867,
+            "deletions": 1587553,
+            "refactoring_churn": 427710,
+            "commits": 6301
+        },
+        "2-3": {
+            "insertions": 3868616,
+            "deletions": 2180171,
+            "refactoring_churn": 1187826,
+            "commits": 13587
+        }
+    },
+    "olingo-odata4": {
+        "-1-0": {
+            "insertions": 782631,
+            "deletions": 584886,
+            "refactoring_churn": 195285,
+            "commits": 1353
+        }
+    },
+    "sis": {
+        "-1-0": {
+            "insertions": 327470,
+            "deletions": 78944,
+            "refactoring_churn": 132523,
+            "commits": 1822
+        },
+        "0-1": {
+            "insertions": 672718,
+            "deletions": 210304,
+            "refactoring_churn": 312798,
+            "commits": 3463
+        },
+        "1-2": {
+            "insertions": 817767,
+            "deletions": 280090,
+            "refactoring_churn": 414684,
+            "commits": 4339
+        },
+        "2-3": {
+            "insertions": 1080797,
+            "deletions": 381473,
+            "refactoring_churn": 559270,
+            "commits": 5951
+        }
+    },
+    "commons-jexl": {
+        "-1-0": {
+            "insertions": 120308,
+            "deletions": 88522,
+            "refactoring_churn": 14904,
+            "commits": 1723
+        },
+        "0-1": {
+            "insertions": 259889,
+            "deletions": 184612,
+            "refactoring_churn": 60633,
+            "commits": 3049
+        },
+        "1-2": {
+            "insertions": 283405,
+            "deletions": 194065,
+            "refactoring_churn": 73121,
+            "commits": 3353
+        }
+    },
+    "aries": {
+        "-1-0": {
+            "insertions": 251356,
+            "deletions": 82081,
+            "refactoring_churn": 59703,
+            "commits": 3201
+        },
+        "0-1": {
+            "insertions": 533105,
+            "deletions": 216695,
+            "refactoring_churn": 120083,
+            "commits": 5870
+        },
+        "1-2": {
+            "insertions": 613918,
+            "deletions": 294083,
+            "refactoring_churn": 158366,
+            "commits": 6959
+        },
+        "2-3": {
+            "insertions": 806892,
+            "deletions": 407586,
+            "refactoring_churn": 189859,
+            "commits": 8416
+        }
+    },
+    "maven-javadoc-plugin": {
+        "-1-0": {
+            "insertions": 38325,
+            "deletions": 14748,
+            "refactoring_churn": 14508,
+            "commits": 514
+        },
+        "0-1": {
+            "insertions": 53700,
+            "deletions": 23193,
+            "refactoring_churn": 27310,
+            "commits": 924
+        }
+    },
+    "knox": {
+        "-1-0": {
+            "insertions": 102673,
+            "deletions": 27649,
+            "refactoring_churn": 23941,
+            "commits": 769
+        },
+        "0-1": {
+            "insertions": 205655,
+            "deletions": 65260,
+            "refactoring_churn": 64041,
+            "commits": 1540
+        },
+        "1-2": {
+            "insertions": 261767,
+            "deletions": 90634,
+            "refactoring_churn": 75004,
+            "commits": 2339
+        }
+    },
+    "sling-org-apache-sling-jcr-resource": {
+        "-1-0": {
+            "insertions": 18116,
+            "deletions": 21281,
+            "refactoring_churn": 11243,
+            "commits": 306
+        },
+        "0-1": {
+            "insertions": 30074,
+            "deletions": 30993,
+            "refactoring_churn": 23472,
+            "commits": 646
+        }
+    },
+    "cassandra": {
+        "-1-0": {
+            "insertions": 359453,
+            "deletions": 281379,
+            "refactoring_churn": 188585,
+            "commits": 3761
+        },
+        "0-1": {
+            "insertions": 718112,
+            "deletions": 517238,
+            "refactoring_churn": 326945,
+            "commits": 8354
+        },
+        "1-2": {
+            "insertions": 1000757,
+            "deletions": 678434,
+            "refactoring_churn": 417886,
+            "commits": 11080
+        },
+        "2-3": {
+            "insertions": 1422664,
+            "deletions": 967111,
+            "refactoring_churn": 569752,
+            "commits": 14248
+        }
+    },
+    "maven-release": {
+        "-1-0": {
+            "insertions": 32250,
+            "deletions": 7736,
+            "refactoring_churn": 5498,
+            "commits": 424
+        },
+        "0-1": {
+            "insertions": 63064,
+            "deletions": 24714,
+            "refactoring_churn": 22899,
+            "commits": 944
+        }
+    },
+    "directory-studio": {
+        "-1-0": {
+            "insertions": 521414,
+            "deletions": 218052,
+            "refactoring_churn": 85519,
+            "commits": 2699
+        },
+        "0-1": {
+            "insertions": 660326,
+            "deletions": 304695,
+            "refactoring_churn": 125337,
+            "commits": 4359
+        },
+        "1-2": {
+            "insertions": 683612,
+            "deletions": 323949,
+            "refactoring_churn": 129838,
+            "commits": 4876
+        }
+    },
+    "sentry": {
+        "-1-0": {
+            "insertions": 240626,
+            "deletions": 42450,
+            "refactoring_churn": 77742,
+            "commits": 604
+        },
+        "0-1": {
+            "insertions": 432182,
+            "deletions": 122926,
+            "refactoring_churn": 167437,
+            "commits": 1497
+        }
+    },
+    "clerezza": {
+        "-1-0": {
+            "insertions": 173449,
+            "deletions": 56203,
+            "refactoring_churn": 74318,
+            "commits": 1670
+        },
+        "0-1": {
+            "insertions": 394808,
+            "deletions": 298350,
+            "refactoring_churn": 106579,
+            "commits": 2472
+        }
+    },
+    "commons-pool": {
+        "-1-0": {
+            "insertions": 40450,
+            "deletions": 20271,
+            "refactoring_churn": 7200,
+            "commits": 512
+        },
+        "0-1": {
+            "insertions": 86415,
+            "deletions": 62610,
+            "refactoring_churn": 56290,
+            "commits": 1638
+        },
+        "1-2": {
+            "insertions": 99242,
+            "deletions": 71755,
+            "refactoring_churn": 59006,
+            "commits": 2029
+        }
+    },
+    "commons-compress": {
+        "-1-0": {
+            "insertions": 79343,
+            "deletions": 32056,
+            "refactoring_churn": 28195,
+            "commits": 977
+        },
+        "0-1": {
+            "insertions": 115490,
+            "deletions": 43514,
+            "refactoring_churn": 39417,
+            "commits": 1796
+        },
+        "1-2": {
+            "insertions": 149091,
+            "deletions": 59889,
+            "refactoring_churn": 47813,
+            "commits": 2555
+        }
+    },
+    "ant-ivy": {
+        "-1-0": {
+            "insertions": 159271,
+            "deletions": 107128,
+            "refactoring_churn": 34438,
+            "commits": 1258
+        },
+        "0-1": {
+            "insertions": 190380,
+            "deletions": 118453,
+            "refactoring_churn": 49405,
+            "commits": 2175
+        },
+        "1-2": {
+            "insertions": 224752,
+            "deletions": 133310,
+            "refactoring_churn": 58121,
+            "commits": 2664
+        }
+    },
+    "jmeter": {
+        "-1-0": {
+            "insertions": 126950,
+            "deletions": 52134,
+            "refactoring_churn": 10762,
+            "commits": 697
+        },
+        "0-1": {
+            "insertions": 426758,
+            "deletions": 264081,
+            "refactoring_churn": 31787,
+            "commits": 3058
+        },
+        "1-2": {
+            "insertions": 628969,
+            "deletions": 479333,
+            "refactoring_churn": 44927,
+            "commits": 5022
+        },
+        "2-3": {
+            "insertions": 764997,
+            "deletions": 594636,
+            "refactoring_churn": 63601,
+            "commits": 6850
+        }
+    },
+    "commons-lang": {
+        "-1-0": {
+            "insertions": 133289,
+            "deletions": 58746,
+            "refactoring_churn": 16497,
+            "commits": 1072
+        },
+        "0-1": {
+            "insertions": 272197,
+            "deletions": 177300,
+            "refactoring_churn": 30455,
+            "commits": 1938
+        },
+        "1-2": {
+            "insertions": 311876,
+            "deletions": 220635,
+            "refactoring_churn": 73900,
+            "commits": 2794
+        },
+        "2-3": {
+            "insertions": 374765,
+            "deletions": 258535,
+            "refactoring_churn": 123141,
+            "commits": 4196
+        }
+    },
+    "maven-surefire": {
+        "-1-0": {
+            "insertions": 53098,
+            "deletions": 39966,
+            "refactoring_churn": 17696,
+            "commits": 693
+        },
+        "0-1": {
+            "insertions": 148103,
+            "deletions": 97350,
+            "refactoring_churn": 55732,
+            "commits": 1599
+        },
+        "1-2": {
+            "insertions": 186635,
+            "deletions": 111342,
+            "refactoring_churn": 63785,
+            "commits": 1964
+        },
+        "2-3": {
+            "insertions": 234328,
+            "deletions": 130799,
+            "refactoring_churn": 83865,
+            "commits": 2647
+        }
+    },
+    "openjpa": {
+        "-1-0": {
+            "insertions": 658620,
+            "deletions": 264024,
+            "refactoring_churn": 34066,
+            "commits": 1812
+        },
+        "0-1": {
+            "insertions": 1660180,
+            "deletions": 915700,
+            "refactoring_churn": 143380,
+            "commits": 5236
+        },
+        "1-2": {
+            "insertions": 1748494,
+            "deletions": 938400,
+            "refactoring_churn": 162474,
+            "commits": 6015
+        },
+        "2-3": {
+            "insertions": 1825505,
+            "deletions": 951173,
+            "refactoring_churn": 181656,
+            "commits": 6834
+        }
+    },
+    "karaf": {
+        "-1-0": {
+            "insertions": 333624,
+            "deletions": 115603,
+            "refactoring_churn": 68236,
+            "commits": 1372
+        },
+        "0-1": {
+            "insertions": 1023899,
+            "deletions": 425228,
+            "refactoring_churn": 218962,
+            "commits": 6712
+        },
+        "1-2": {
+            "insertions": 1113497,
+            "deletions": 505701,
+            "refactoring_churn": 254287,
+            "commits": 8689
+        },
+        "2-3": {
+            "insertions": 1319858,
+            "deletions": 619603,
+            "refactoring_churn": 324904,
+            "commits": 12529
+        }
+    },
+    "incubator-taverna-common-activities": {
+        "-1-0": {
+            "insertions": 59853,
+            "deletions": 38896,
+            "refactoring_churn": 10690,
+            "commits": 511
+        }
+    },
+    "servicecomb-pack": {
+        "-1-0": {
+            "insertions": 108784,
+            "deletions": 60690,
+            "refactoring_churn": 46505,
+            "commits": 1578
+        }
+    },
+    "qpid-jms": {
+        "-1-0": {
+            "insertions": 182029,
+            "deletions": 68853,
+            "refactoring_churn": 51657,
+            "commits": 1549
+        },
+        "0-1": {
+            "insertions": 245305,
+            "deletions": 82933,
+            "refactoring_churn": 78750,
+            "commits": 2143
+        }
+    },
+    "directory-ldap-api": {
+        "-1-0": {
+            "insertions": 327415,
+            "deletions": 220233,
+            "refactoring_churn": 32222,
+            "commits": 1440
+        },
+        "0-1": {
+            "insertions": 773869,
+            "deletions": 534190,
+            "refactoring_churn": 233439,
+            "commits": 3401
+        },
+        "1-2": {
+            "insertions": 1888698,
+            "deletions": 1492042,
+            "refactoring_churn": 426830,
+            "commits": 4918
+        },
+        "2-3": {
+            "insertions": 1988113,
+            "deletions": 1548153,
+            "refactoring_churn": 494955,
+            "commits": 5638
+        }
+    },
+    "giraph": {
+        "-1-0": {
+            "insertions": 178662,
+            "deletions": 102793,
+            "refactoring_churn": 56168,
+            "commits": 626
+        },
+        "0-1": {
+            "insertions": 330011,
+            "deletions": 146714,
+            "refactoring_churn": 82967,
+            "commits": 1002
+        }
+    },
+    "creadur-rat": {
+        "-1-0": {
+            "insertions": 50864,
+            "deletions": 27553,
+            "refactoring_churn": 13139,
+            "commits": 1334
+        }
+    },
+    "oozie": {
+        "-1-0": {
+            "insertions": 437234,
+            "deletions": 355442,
+            "refactoring_churn": 74896,
+            "commits": 1617
+        },
+        "0-1": {
+            "insertions": 501326,
+            "deletions": 375804,
+            "refactoring_churn": 127372,
+            "commits": 2249
+        },
+        "1-2": {
+            "insertions": 553269,
+            "deletions": 409657,
+            "refactoring_churn": 154183,
+            "commits": 2752
+        }
+    },
+    "commons-logging": {
+        "-1-0": {
+            "insertions": 30155,
+            "deletions": 16064,
+            "refactoring_churn": 4868,
+            "commits": 609
+        }
+    },
+    "mina": {
+        "-1-0": {
+            "insertions": 203307,
+            "deletions": 136532,
+            "refactoring_churn": 57398,
+            "commits": 1841
+        },
+        "0-1": {
+            "insertions": 375295,
+            "deletions": 360702,
+            "refactoring_churn": 79000,
+            "commits": 2699
+        },
+        "1-2": {
+            "insertions": 435767,
+            "deletions": 387359,
+            "refactoring_churn": 91555,
+            "commits": 3273
+        }
+    },
+    "odftoolkit": {},
+    "openwebbeans": {
+        "-1-0": {
+            "insertions": 206404,
+            "deletions": 100402,
+            "refactoring_churn": 38913,
+            "commits": 1700
+        },
+        "0-1": {
+            "insertions": 288141,
+            "deletions": 176281,
+            "refactoring_churn": 87387,
+            "commits": 2966
+        },
+        "1-2": {
+            "insertions": 320219,
+            "deletions": 196175,
+            "refactoring_churn": 100609,
+            "commits": 3627
+        }
+    },
+    "eagle": {},
+    "bookkeeper": {
+        "-1-0": {
+            "insertions": 196761,
+            "deletions": 45504,
+            "refactoring_churn": 48777,
+            "commits": 600
+        },
+        "0-1": {
+            "insertions": 376943,
+            "deletions": 213547,
+            "refactoring_churn": 100667,
+            "commits": 1473
+        },
+        "1-2": {
+            "insertions": 602666,
+            "deletions": 288389,
+            "refactoring_churn": 196654,
+            "commits": 3106
+        }
+    },
+    "asterixdb": {
+        "-1-0": {
+            "insertions": 989632,
+            "deletions": 306733,
+            "refactoring_churn": 142907,
+            "commits": 1654
+        },
+        "0-1": {
+            "insertions": 1822372,
+            "deletions": 860354,
+            "refactoring_churn": 238485,
+            "commits": 4301
+        },
+        "1-2": {
+            "insertions": 2182959,
+            "deletions": 1098473,
+            "refactoring_churn": 335710,
+            "commits": 5296
+        },
+        "2-3": {
+            "insertions": 2492268,
+            "deletions": 1295468,
+            "refactoring_churn": 441181,
+            "commits": 6900
+        }
+    },
+    "camel": {
+        "-1-0": {
+            "insertions": 427265,
+            "deletions": 156600,
+            "refactoring_churn": 81844,
+            "commits": 4808
+        },
+        "0-1": {
+            "insertions": 2166265,
+            "deletions": 313273,
+            "refactoring_churn": 207681,
+            "commits": 11655
+        },
+        "1-2": {
+            "insertions": 3360044,
+            "deletions": 412472,
+            "refactoring_churn": 284905,
+            "commits": 17575
+        },
+        "2-3": {
+            "insertions": 4098645,
+            "deletions": 592593,
+            "refactoring_churn": 500741,
+            "commits": 28536
+        }
+    },
+    "openmeetings": {
+        "-1-0": {
+            "insertions": 159256,
+            "deletions": 140465,
+            "refactoring_churn": 99518,
+            "commits": 3339
+        },
+        "0-1": {
+            "insertions": 200075,
+            "deletions": 180128,
+            "refactoring_churn": 144701,
+            "commits": 5080
+        }
+    },
+    "phoenix-omid": {
+        "-1-0": {
+            "insertions": 75048,
+            "deletions": 58289,
+            "refactoring_churn": 27551,
+            "commits": 560
+        }
+    },
+    "commons-rdf": {},
+    "nifi": {
+        "-1-0": {
+            "insertions": 674550,
+            "deletions": 301378,
+            "refactoring_churn": 244487,
+            "commits": 3342
+        },
+        "0-1": {
+            "insertions": 1125545,
+            "deletions": 402974,
+            "refactoring_churn": 417529,
+            "commits": 5445
+        },
+        "1-2": {
+            "insertions": 1346543,
+            "deletions": 465952,
+            "refactoring_churn": 496753,
+            "commits": 6665
+        }
+    },
+    "netbeans-html4j": {},
+    "portals-pluto": {
+        "-1-0": {
+            "insertions": 205104,
+            "deletions": 133216,
+            "refactoring_churn": 11863,
+            "commits": 1011
+        },
+        "0-1": {
+            "insertions": 556144,
+            "deletions": 408317,
+            "refactoring_churn": 40376,
+            "commits": 2066
+        },
+        "1-2": {
+            "insertions": 909859,
+            "deletions": 543236,
+            "refactoring_churn": 64788,
+            "commits": 2548
+        }
+    },
+    "commons-digester": {
+        "-1-0": {
+            "insertions": 50921,
+            "deletions": 19422,
+            "refactoring_churn": 2894,
+            "commits": 458
+        },
+        "0-1": {
+            "insertions": 148104,
+            "deletions": 61104,
+            "refactoring_churn": 29549,
+            "commits": 2346
+        }
+    },
+    "accumulo": {
+        "-1-0": {
+            "insertions": 1025700,
+            "deletions": 614861,
+            "refactoring_churn": 346721,
+            "commits": 2947
+        },
+        "0-1": {
+            "insertions": 1417858,
+            "deletions": 837941,
+            "refactoring_churn": 544080,
+            "commits": 5568
+        },
+        "1-2": {
+            "insertions": 1534536,
+            "deletions": 942815,
+            "refactoring_churn": 700606,
+            "commits": 6046
+        },
+        "2-3": {
+            "insertions": 1766125,
+            "deletions": 1291695,
+            "refactoring_churn": 1218423,
+            "commits": 7194
+        }
+    },
+    "pulsar": {
+        "-1-0": {
+            "insertions": 331585,
+            "deletions": 126104,
+            "refactoring_churn": 143836,
+            "commits": 3015
+        }
+    },
+    "storm": {
+        "-1-0": {
+            "insertions": 70470,
+            "deletions": 29255,
+            "refactoring_churn": 31349,
+            "commits": 1841
+        },
+        "0-1": {
+            "insertions": 899035,
+            "deletions": 531725,
+            "refactoring_churn": 214251,
+            "commits": 6348
+        },
+        "1-2": {
+            "insertions": 1374124,
+            "deletions": 804004,
+            "refactoring_churn": 305719,
+            "commits": 9196
+        },
+        "2-3": {
+            "insertions": 1611847,
+            "deletions": 997288,
+            "refactoring_churn": 410340,
+            "commits": 10383
+        }
+    },
+    "ode": {
+        "-1-0": {
+            "insertions": 443898,
+            "deletions": 336529,
+            "refactoring_churn": 69673,
+            "commits": 3581
+        },
+        "0-1": {
+            "insertions": 608993,
+            "deletions": 420329,
+            "refactoring_churn": 102066,
+            "commits": 4958
+        },
+        "1-2": {
+            "insertions": 642401,
+            "deletions": 440644,
+            "refactoring_churn": 110738,
+            "commits": 5446
+        }
+    },
+    "commons-validator": {
+        "-1-0": {
+            "insertions": 47082,
+            "deletions": 26313,
+            "refactoring_churn": 5159,
+            "commits": 588
+        },
+        "0-1": {
+            "insertions": 68649,
+            "deletions": 35548,
+            "refactoring_churn": 8732,
+            "commits": 1358
+        }
+    },
+    "incubator-taverna-engine": {
+        "-1-0": {
+            "insertions": 129567,
+            "deletions": 86094,
+            "refactoring_churn": 39028,
+            "commits": 1286
+        }
+    },
+    "logging-chainsaw": {
+        "-1-0": {
+            "insertions": 73491,
+            "deletions": 49291,
+            "refactoring_churn": 22925,
+            "commits": 674
+        }
+    },
+    "gora": {
+        "-1-0": {
+            "insertions": 81443,
+            "deletions": 36067,
+            "refactoring_churn": 8643,
+            "commits": 650
+        },
+        "0-1": {
+            "insertions": 164374,
+            "deletions": 82774,
+            "refactoring_churn": 28969,
+            "commits": 1169
+        }
+    },
+    "directory-fortress-core": {
+        "-1-0": {
+            "insertions": 151663,
+            "deletions": 71367,
+            "refactoring_churn": 36320,
+            "commits": 519
+        },
+        "0-1": {
+            "insertions": 190122,
+            "deletions": 98774,
+            "refactoring_churn": 71987,
+            "commits": 1591
+        }
+    },
+    "maven-scm": {
+        "-1-0": {
+            "insertions": 117973,
+            "deletions": 53977,
+            "refactoring_churn": 9506,
+            "commits": 807
+        },
+        "0-1": {
+            "insertions": 195655,
+            "deletions": 79967,
+            "refactoring_churn": 16272,
+            "commits": 1652
+        },
+        "1-2": {
+            "insertions": 212297,
+            "deletions": 91751,
+            "refactoring_churn": 18761,
+            "commits": 1966
+        }
+    },
+    "unomi": {
+        "-1-0": {
+            "insertions": 47711,
+            "deletions": 22566,
+            "refactoring_churn": 22782,
+            "commits": 1120
+        },
+        "0-1": {
+            "insertions": 83599,
+            "deletions": 37058,
+            "refactoring_churn": 38868,
+            "commits": 1798
+        }
+    },
+    "flume": {
+        "-1-0": {
+            "insertions": 354185,
+            "deletions": 199679,
+            "refactoring_churn": 79896,
+            "commits": 1927
+        },
+        "0-1": {
+            "insertions": 418948,
+            "deletions": 217910,
+            "refactoring_churn": 91175,
+            "commits": 2467
+        }
+    },
+    "commons-jcs": {
+        "-1-0": {
+            "insertions": 204572,
+            "deletions": 124296,
+            "refactoring_churn": 22940,
+            "commits": 688
+        },
+        "0-1": {
+            "insertions": 309547,
+            "deletions": 208921,
+            "refactoring_churn": 59892,
+            "commits": 1446
+        }
+    },
+    "commons-collections": {
+        "-1-0": {
+            "insertions": 261369,
+            "deletions": 179643,
+            "refactoring_churn": 33054,
+            "commits": 1304
+        },
+        "0-1": {
+            "insertions": 433814,
+            "deletions": 303184,
+            "refactoring_churn": 59535,
+            "commits": 2027
+        },
+        "1-2": {
+            "insertions": 488557,
+            "deletions": 346961,
+            "refactoring_churn": 88335,
+            "commits": 2827
+        },
+        "2-3": {
+            "insertions": 531104,
+            "deletions": 365117,
+            "refactoring_churn": 103795,
+            "commits": 3461
+        }
+    },
+    "commons-vfs": {
+        "-1-0": {
+            "insertions": 76252,
+            "deletions": 31256,
+            "refactoring_churn": 16046,
+            "commits": 620
+        },
+        "0-1": {
+            "insertions": 117402,
+            "deletions": 61682,
+            "refactoring_churn": 31901,
+            "commits": 1547
+        },
+        "1-2": {
+            "insertions": 131004,
+            "deletions": 70183,
+            "refactoring_churn": 33451,
+            "commits": 1941
+        }
+    },
+    "calcite": {
+        "-1-0": {
+            "insertions": 627564,
+            "deletions": 352223,
+            "refactoring_churn": 116956,
+            "commits": 1225
+        },
+        "0-1": {
+            "insertions": 937073,
+            "deletions": 459551,
+            "refactoring_churn": 255096,
+            "commits": 2394
+        },
+        "1-2": {
+            "insertions": 1049701,
+            "deletions": 601917,
+            "refactoring_churn": 317159,
+            "commits": 3013
+        },
+        "2-3": {
+            "insertions": 1262031,
+            "deletions": 708183,
+            "refactoring_churn": 457250,
+            "commits": 4526
+        }
+    },
+    "dubbo": {
+        "-1-0": {
+            "insertions": 344170,
+            "deletions": 178857,
+            "refactoring_churn": 81868,
+            "commits": 2139
+        },
+        "0-1": {
+            "insertions": 730092,
+            "deletions": 540614,
+            "refactoring_churn": 164591,
+            "commits": 4418
+        }
+    },
+    "karaf-eik": {},
+    "tajo": {
+        "-1-0": {
+            "insertions": 344960,
+            "deletions": 188759,
+            "refactoring_churn": 92663,
+            "commits": 1133
+        }
+    },
+    "commons-bcel": {
+        "-1-0": {
+            "insertions": 172986,
+            "deletions": 50827,
+            "refactoring_churn": 4640,
+            "commits": 368
+        },
+        "0-1": {
+            "insertions": 243337,
+            "deletions": 108055,
+            "refactoring_churn": 25790,
+            "commits": 1330
+        }
+    },
+    "systemml": {
+        "-1-0": {
+            "insertions": 425854,
+            "deletions": 231816,
+            "refactoring_churn": 77348,
+            "commits": 1500
+        },
+        "0-1": {
+            "insertions": 826431,
+            "deletions": 459240,
+            "refactoring_churn": 255403,
+            "commits": 4149
+        },
+        "1-2": {
+            "insertions": 993885,
+            "deletions": 598619,
+            "refactoring_churn": 343566,
+            "commits": 5816
+        },
+        "2-3": {
+            "insertions": 1242183,
+            "deletions": 1238806,
+            "refactoring_churn": 452726,
+            "commits": 7223
+        }
+    },
+    "james-project": {
+        "-1-0": {
+            "insertions": 252169,
+            "deletions": 3289,
+            "refactoring_churn": 3013,
+            "commits": 646
+        },
+        "0-1": {
+            "insertions": 669019,
+            "deletions": 192844,
+            "refactoring_churn": 137621,
+            "commits": 4577
+        },
+        "1-2": {
+            "insertions": 958961,
+            "deletions": 363184,
+            "refactoring_churn": 252814,
+            "commits": 8311
+        }
+    },
+    "db-jdo": {
+        "-1-0": {
+            "insertions": 784307,
+            "deletions": 1127027,
+            "refactoring_churn": 21685,
+            "commits": 934
+        },
+        "0-1": {
+            "insertions": 1011105,
+            "deletions": 3128339,
+            "refactoring_churn": 26983,
+            "commits": 1427
+        },
+        "1-2": {
+            "insertions": 1022125,
+            "deletions": 3899177,
+            "refactoring_churn": 29014,
+            "commits": 1623
+        }
+    },
+    "nutch": {
+        "-1-0": {
+            "insertions": 141633,
+            "deletions": 74381,
+            "refactoring_churn": 14986,
+            "commits": 918
+        },
+        "0-1": {
+            "insertions": 200858,
+            "deletions": 172263,
+            "refactoring_churn": 23495,
+            "commits": 1528
+        },
+        "1-2": {
+            "insertions": 266928,
+            "deletions": 180016,
+            "refactoring_churn": 28621,
+            "commits": 2023
+        },
+        "2-3": {
+            "insertions": 353131,
+            "deletions": 228320,
+            "refactoring_churn": 41168,
+            "commits": 2679
+        }
+    },
+    "httpcomponents-client": {
+        "-1-0": {
+            "insertions": 77145,
+            "deletions": 24960,
+            "refactoring_churn": 36009,
+            "commits": 790
+        },
+        "0-1": {
+            "insertions": 159246,
+            "deletions": 60470,
+            "refactoring_churn": 62361,
+            "commits": 1592
+        },
+        "1-2": {
+            "insertions": 222553,
+            "deletions": 102997,
+            "refactoring_churn": 88863,
+            "commits": 2088
+        },
+        "2-3": {
+            "insertions": 278004,
+            "deletions": 173661,
+            "refactoring_churn": 133354,
+            "commits": 2795
+        }
+    },
+    "directory-server": {
+        "-1-0": {
+            "insertions": 606419,
+            "deletions": 345759,
+            "refactoring_churn": 124070,
+            "commits": 2424
+        },
+        "0-1": {
+            "insertions": 1274824,
+            "deletions": 717918,
+            "refactoring_churn": 321308,
+            "commits": 6415
+        },
+        "1-2": {
+            "insertions": 1707617,
+            "deletions": 1077859,
+            "refactoring_churn": 492159,
+            "commits": 8750
+        },
+        "2-3": {
+            "insertions": 2277697,
+            "deletions": 1551104,
+            "refactoring_churn": 658559,
+            "commits": 11928
+        }
+    },
+    "cayenne": {
+        "-1-0": {
+            "insertions": 120492,
+            "deletions": 51137,
+            "refactoring_churn": 40345,
+            "commits": 1628
+        },
+        "0-1": {
+            "insertions": 260228,
+            "deletions": 178557,
+            "refactoring_churn": 108838,
+            "commits": 3179
+        },
+        "1-2": {
+            "insertions": 311257,
+            "deletions": 217830,
+            "refactoring_churn": 125599,
+            "commits": 4070
+        },
+        "2-3": {
+            "insertions": 488237,
+            "deletions": 345189,
+            "refactoring_churn": 184625,
+            "commits": 5236
+        }
+    },
+    "asterixdb-hyracks": {
+        "-1-0": {
+            "insertions": 856800,
+            "deletions": 399618,
+            "refactoring_churn": 132347,
+            "commits": 1399
+        },
+        "0-1": {
+            "insertions": 1327704,
+            "deletions": 666541,
+            "refactoring_churn": 183738,
+            "commits": 2330
+        }
+    },
+    "maven-doxia": {
+        "-1-0": {
+            "insertions": 106091,
+            "deletions": 64264,
+            "refactoring_churn": 22610,
+            "commits": 933
+        },
+        "0-1": {
+            "insertions": 136500,
+            "deletions": 84092,
+            "refactoring_churn": 44292,
+            "commits": 1663
+        }
+    },
+    "incubator-gobblin": {
+        "-1-0": {
+            "insertions": 225709,
+            "deletions": 294378,
+            "refactoring_churn": 73010,
+            "commits": 1942
+        },
+        "0-1": {
+            "insertions": 516695,
+            "deletions": 377468,
+            "refactoring_churn": 160873,
+            "commits": 3660
+        },
+        "1-2": {
+            "insertions": 573576,
+            "deletions": 391956,
+            "refactoring_churn": 184273,
+            "commits": 4094
+        }
+    },
+    "parquet-mr": {
+        "-1-0": {
+            "insertions": 189235,
+            "deletions": 105041,
+            "refactoring_churn": 67566,
+            "commits": 1505
+        },
+        "0-1": {
+            "insertions": 289475,
+            "deletions": 128726,
+            "refactoring_churn": 88222,
+            "commits": 2023
+        }
+    },
+    "hadoop": {
+        "-1-0": {
+            "insertions": 438459,
+            "deletions": 297186,
+            "refactoring_churn": 113664,
+            "commits": 2573
+        },
+        "0-1": {
+            "insertions": 1122791,
+            "deletions": 645145,
+            "refactoring_churn": 295840,
+            "commits": 6402
+        },
+        "1-2": {
+            "insertions": 5088119,
+            "deletions": 1159676,
+            "refactoring_churn": 761291,
+            "commits": 12133
+        },
+        "2-3": {
+            "insertions": 7204965,
+            "deletions": 2084699,
+            "refactoring_churn": 1891784,
+            "commits": 26968
+        }
+    },
+    "brooklyn-server": {
+        "-1-0": {
+            "insertions": 177270,
+            "deletions": 46100,
+            "refactoring_churn": 49211,
+            "commits": 3415
+        },
+        "0-1": {
+            "insertions": 557030,
+            "deletions": 228700,
+            "refactoring_churn": 216312,
+            "commits": 7314
+        },
+        "1-2": {
+            "insertions": 725008,
+            "deletions": 297461,
+            "refactoring_churn": 299187,
+            "commits": 9376
+        }
+    },
+    "sqoop": {
+        "-1-0": {
+            "insertions": 184583,
+            "deletions": 56103,
+            "refactoring_churn": 34602,
+            "commits": 960
+        },
+        "0-1": {
+            "insertions": 377194,
+            "deletions": 145471,
+            "refactoring_churn": 85187,
+            "commits": 2054
+        },
+        "1-2": {
+            "insertions": 412915,
+            "deletions": 165804,
+            "refactoring_churn": 103228,
+            "commits": 2260
+        }
+    },
+    "dubbo-hessian-lite": {
+        "-1-0": {
+            "insertions": 344170,
+            "deletions": 178857,
+            "refactoring_churn": 81868,
+            "commits": 2137
+        }
+    },
+    "curator": {
+        "-1-0": {
+            "insertions": 69337,
+            "deletions": 28344,
+            "refactoring_churn": 18760,
+            "commits": 1116
+        },
+        "0-1": {
+            "insertions": 216199,
+            "deletions": 63463,
+            "refactoring_churn": 50202,
+            "commits": 2096
+        },
+        "1-2": {
+            "insertions": 258895,
+            "deletions": 202789,
+            "refactoring_churn": 64727,
+            "commits": 2503
+        }
+    },
+    "commons-net": {
+        "-1-0": {
+            "insertions": 186556,
+            "deletions": 103587,
+            "refactoring_churn": 6692,
+            "commits": 438
+        },
+        "0-1": {
+            "insertions": 229558,
+            "deletions": 133266,
+            "refactoring_churn": 14088,
+            "commits": 1605
+        },
+        "1-2": {
+            "insertions": 239685,
+            "deletions": 138182,
+            "refactoring_churn": 18938,
+            "commits": 2039
+        }
+    },
+    "incubator-tamaya-extensions": {
+        "-1-0": {
+            "insertions": 153775,
+            "deletions": 123181,
+            "refactoring_churn": 36596,
+            "commits": 1303
+        }
+    },
+    "fineract": {
+        "-1-0": {
+            "insertions": 427226,
+            "deletions": 246037,
+            "refactoring_churn": 116442,
+            "commits": 2497
+        },
+        "0-1": {
+            "insertions": 952699,
+            "deletions": 612588,
+            "refactoring_churn": 209985,
+            "commits": 3414
+        },
+        "1-2": {
+            "insertions": 1034574,
+            "deletions": 619659,
+            "refactoring_churn": 219274,
+            "commits": 3637
+        }
+    },
+    "maven-invoker-plugin": {
+        "-1-0": {
+            "insertions": 12698,
+            "deletions": 7447,
+            "refactoring_churn": 9198,
+            "commits": 438
+        }
+    },
+    "sling-ide-tooling": {},
+    "hbase": {
+        "-1-0": {
+            "insertions": 487202,
+            "deletions": 233083,
+            "refactoring_churn": 121911,
+            "commits": 1739
+        },
+        "0-1": {
+            "insertions": 1205394,
+            "deletions": 605705,
+            "refactoring_churn": 410318,
+            "commits": 6574
+        },
+        "1-2": {
+            "insertions": 2414760,
+            "deletions": 1202128,
+            "refactoring_churn": 940824,
+            "commits": 11664
+        },
+        "2-3": {
+            "insertions": 4430113,
+            "deletions": 2264764,
+            "refactoring_churn": 2106757,
+            "commits": 23366
+        }
+    },
+    "qpid-proton-j": {
+        "-1-0": {
+            "insertions": 87120,
+            "deletions": 65936,
+            "refactoring_churn": 16669,
+            "commits": 1204
+        },
+        "0-1": {
+            "insertions": 146979,
+            "deletions": 81292,
+            "refactoring_churn": 31290,
+            "commits": 3140
+        },
+        "1-2": {
+            "insertions": 174983,
+            "deletions": 90316,
+            "refactoring_churn": 38434,
+            "commits": 3413
+        }
+    },
+    "tomcat": {
+        "-1-0": {
+            "insertions": 862686,
+            "deletions": 734199,
+            "refactoring_churn": 41614,
+            "commits": 3441
+        },
+        "0-1": {
+            "insertions": 1732173,
+            "deletions": 1368594,
+            "refactoring_churn": 371119,
+            "commits": 14577
+        },
+        "1-2": {
+            "insertions": 2026191,
+            "deletions": 1624523,
+            "refactoring_churn": 533764,
+            "commits": 22684
+        },
+        "2-3": {
+            "insertions": 2581541,
+            "deletions": 1981821,
+            "refactoring_churn": 754359,
+            "commits": 35887
+        }
+    },
+    "ws-axiom": {
+        "-1-0": {
+            "insertions": 110335,
+            "deletions": 46297,
+            "refactoring_churn": 12095,
+            "commits": 682
+        },
+        "0-1": {
+            "insertions": 233750,
+            "deletions": 125224,
+            "refactoring_churn": 43256,
+            "commits": 1724
+        },
+        "1-2": {
+            "insertions": 334223,
+            "deletions": 178205,
+            "refactoring_churn": 79070,
+            "commits": 2701
+        },
+        "2-3": {
+            "insertions": 451826,
+            "deletions": 288092,
+            "refactoring_churn": 139746,
+            "commits": 4474
+        }
+    },
+    "fluo": {
+        "-1-0": {
+            "insertions": 66002,
+            "deletions": 35137,
+            "refactoring_churn": 28731,
+            "commits": 472
+        }
+    },
+    "incubator-retired-edgent": {},
+    "syncope": {
+        "-1-0": {
+            "insertions": 191937,
+            "deletions": 116387,
+            "refactoring_churn": 67916,
+            "commits": 1178
+        },
+        "0-1": {
+            "insertions": 473842,
+            "deletions": 218789,
+            "refactoring_churn": 161960,
+            "commits": 2966
+        },
+        "1-2": {
+            "insertions": 700607,
+            "deletions": 500710,
+            "refactoring_churn": 235756,
+            "commits": 4317
+        },
+        "2-3": {
+            "insertions": 989134,
+            "deletions": 653629,
+            "refactoring_churn": 328264,
+            "commits": 8015
+        }
+    },
+    "freemarker": {
+        "-1-0": {
+            "insertions": 116058,
+            "deletions": 70788,
+            "refactoring_churn": 59199,
+            "commits": 1288
+        },
+        "0-1": {
+            "insertions": 267441,
+            "deletions": 176956,
+            "refactoring_churn": 153723,
+            "commits": 2680
+        }
+    },
+    "maven-integration-testing": {
+        "-1-0": {
+            "insertions": 63290,
+            "deletions": 19845,
+            "refactoring_churn": 7753,
+            "commits": 1291
+        },
+        "0-1": {
+            "insertions": 97653,
+            "deletions": 25603,
+            "refactoring_churn": 10767,
+            "commits": 1992
+        },
+        "1-2": {
+            "insertions": 107798,
+            "deletions": 28487,
+            "refactoring_churn": 11653,
+            "commits": 2208
+        }
+    },
+    "commons-jelly": {
+        "-1-0": {
+            "insertions": 164396,
+            "deletions": 163391,
+            "refactoring_churn": 9599,
+            "commits": 1611
+        }
+    },
+    "netbeans-mavenutils-nbm-shared": {
+        "-1-0": {
+            "insertions": 10838,
+            "deletions": 5251,
+            "refactoring_churn": 4317,
+            "commits": 574
+        }
+    },
+    "lens": {
+        "-1-0": {
+            "insertions": 250064,
+            "deletions": 124981,
+            "refactoring_churn": 83070,
+            "commits": 1471
+        },
+        "0-1": {
+            "insertions": 346001,
+            "deletions": 174721,
+            "refactoring_churn": 136784,
+            "commits": 2088
+        }
+    }
+}

@@ -1,0 +1,62 @@
+https://github.com/apache/camel-spring-boot/commit/edbe2ecd977dcee73d6efe078624fa0d7f7e7f0d,,
+Refactoring Type,Tool Results,Manual Results
+Change Return Type,0,0
+Extract And Move Method,0,0
+Modify Class Annotation,0,0
+Inline Variable,0,0
+Change Attribute Type,2,2
+Modify Attribute Annotation,0,0
+Extract Superclass,0,0
+Replace Attribute,0,0
+Move Class,0,0
+Move Attribute,0,0
+Extract Subclass,0,0
+Move And Inline Method,0,0
+Move Method,0,0
+Merge Attribute,0,0
+Push Down Attribute,0,0
+Pull Up Attribute,0,0
+Remove Parameter,0,0
+Modify Method Annotation,0,0
+Rename Variable,0,0
+Split Variable,0,0
+Rename Attribute,0,0
+Replace Variable With Attribute,0,0
+Extract Class,0,0
+Remove Variable Annotation,0,0
+Add Variable Annotation,0,0
+Move Source Folder,0,0
+Push Down Method,0,0
+Rename Class,0,0
+Extract Attribute,0,0
+Add Parameter Annotation,0,0
+Add Parameter,0,0
+Merge Variable,0,0
+Split Attribute,0,0
+Extract Interface,0,0
+Extract Variable,0,0
+Remove Parameter Annotation,0,0
+Modify Parameter Annotation,0,0
+Pull Up Method,0,0
+Add Attribute Annotation,0,0
+Rename Parameter,0,0
+Split Parameter,0,0
+Remove Method Annotation,0,0
+Add Class Annotation,0,0
+Extract Method,1,1
+Remove Attribute Annotation,0,0
+Change Package,0,0
+Remove Class Annotation,0,0
+Reorder Parameter,0,0
+Move And Rename Method,0,0
+Inline Method,0,0
+Rename Method,0,0
+Add Method Annotation,0,0
+Change Parameter Type,0,0
+Merge Parameter,0,0
+Move And Rename Class,0,0
+Move And Rename Attribute,0,0
+Change Variable Type,0,0
+Parameterize Variable,0,0
+Modify Variable Annotation,0,0
+total,3,3

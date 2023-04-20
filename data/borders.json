@@ -1,0 +1,862 @@
+{
+    "accumulo": {
+        "950f144c8e3517053af704189f0fdfd769487dfd": "2013-12-02",
+        "63a8a5d7eec7b0ab6dce107d382143562e21b527": "2016-05-27",
+        "3161b98f05615844caf6980c8b5922375e92bd32": "2017-12-14",
+        "c43471a725bc2259aa80d041d233997c8844c37a": "2020-08-07"
+    },
+    "activemq-artemis": {
+        "d1c1c50aa2b218c5c2a514d63b57f3b4bf89de57": "2016-01-01",
+        "2ebf3c8e1b90558987d7f169c11f4e7560cf72cf": "2019-06-05",
+        "044d6101e94f338907f90651387041f10aad9896": "2020-12-16"
+    },
+    "activemq": {
+        "230255a47902e94a2a8cf20f2962615eb3630322": "2008-02-22",
+        "e121ccc990fa6b13af4d3d297f1e78822113c5f1": "2010-08-20",
+        "46ccaafcfcfbfc63c1c9e0fe2cb02011991772e1": "2012-02-24",
+        "3e5ac6326db59f524a0e71f6b717428607d7b67d": "2014-08-26"
+    },
+    "ant-ivy": {
+        "f8167c21dc61f96e79ba35f88b79338b1b02da21": "2007-12-13",
+        "7b93fad2570e713762fc845db5dc56bc2ffdc476": "2010-10-01",
+        "839709882cd7525fdc3a9374f6122c76c947bc63": "2013-06-30"
+    },
+    "apex-core": {
+        "26c0520552b6d6100d9382ee310c175a44380681": "2014-08-13",
+        "f1ce4dc5b1f45186a4cb213691d9c80ad7959396": "2017-02-20"
+    },
+    "apex-malhar": {
+        "297ace6d8869cd20d7c5d0a9aae3eeca4bdaf1f1": "2014-11-07",
+        "eae0eeee5e88000c0fabf5aedf3078e33f863cd9": "2017-04-13"
+    },
+    "aries": {
+        "12caebda9a5b52d0b0b17f93a6e00da391647435": "2011-01-23",
+        "8c7e103cd0a734a251fc5fdff3dd31323aa16ba3": "2013-08-05",
+        "996f1d418b8de980203c7ae7af92e844a875f127": "2015-08-14",
+        "d51bfa0fba1e661f7f3ef3261712e7f1942a795d": "2018-06-07"
+    },
+    "asterixdb-hyracks": {
+        "20a817c370dd511237a4b42564e1d183126915a0": "2012-12-07",
+        "f1fdb156a094eaee9f5d261e0cd7c6f5fe2d063c": "2016-01-30"
+    },
+    "asterixdb": {
+        "7eafd5f4757ef3d65e500833c126ca02f394e237": "2012-11-03",
+        "900bf1345410264e9b48469da93ccbd831920d2e": "2015-07-09",
+        "ef4453e28d83aaa960d542daa2dfea93c7bf53a7": "2017-01-06",
+        "98031c502fff229430d2ef14ee71ac492300343a": "2019-07-02"
+    },
+    "attic-onami": {},
+    "attic-polygene-java": {
+        "ca961be6496c77edc1cd23ba738acf3be0c769c5": "2009-07-19",
+        "d99f301c092277a9868634dda998f07713390d17": "2012-08-13",
+        "3a2f6c948faf2c1a10b9f4d8c20b18578a7d99be": "2015-07-19"
+    },
+    "bookkeeper": {
+        "79a73f0f71be5701b44ab47c14f92945989b1417": "2014-01-09",
+        "3cc78ba8fb825f166ff6f6fbd217938f3c79b26c": "2017-11-13",
+        "be3bdd0fa20f818158c25f6b59fcfc89d82c4734": "2019-06-07"
+    },
+    "brooklyn-library": {
+        "1e4bbf103a50a74acdf216b8bdde833d5ec98764": "2013-08-26",
+        "2565e6eb2868468ec2528df74fe85efdb887b6d2": "2016-03-31",
+        "09b8f68d170cef63fc8eab92f3063efe8dd97196": "2019-12-05"
+    },
+    "brooklyn-server": {
+        "6b80c9be1e9b0be4eddc3cccab05892e8711c618": "2013-08-14",
+        "d03f254ba19472e3fb5e0a7260cb07679991684a": "2016-01-30",
+        "00318ef30bac60f0f3d0147f868918999b1b1833": "2017-08-17"
+    },
+    "bval": {
+        "8084d4d7929e3c7ca4d19189fa81483bc2402629": "2018-10-31"
+    },
+    "calcite-avatica": {
+        "0184cc575f3292162b3e39f10449635ece8d2eb5": "2014-09-13",
+        "e0a1f7d3069f0eefeb8bdd411a250cd1fb0532f3": "2017-03-02",
+        "5000dd81087ad040f0c08319c076f920e63e696a": "2019-11-20"
+    },
+    "calcite": {
+        "0184cc575f3292162b3e39f10449635ece8d2eb5": "2014-09-13",
+        "e0a1f7d3069f0eefeb8bdd411a250cd1fb0532f3": "2017-03-02",
+        "561c6427e3602510d619b45cd7da840773fa0d2c": "2018-09-04",
+        "f277a2468805999a446e5bcd0ef70aa1e9550562": "2021-01-01"
+    },
+    "camel-spring-boot": {
+        "0256ccc6fd39c8a047ec9b8640f87559f7250344": "2009-06-07",
+        "98716314a17a18dad25f5debb8c3dbc41ef37de2": "2011-11-06",
+        "73b614da58ef933544da8d1b68cd753f3cc1b614": "2013-05-12",
+        "66b6edcf2706eb9b4911967c33a8d6a9c4528747": "2015-11-03"
+    },
+    "camel": {
+        "0256ccc6fd39c8a047ec9b8640f87559f7250344": "2009-06-07",
+        "98716314a17a18dad25f5debb8c3dbc41ef37de2": "2011-11-06",
+        "27d9449f4fe304b4b80cfcd2eb215ba07d784f1c": "2013-05-12",
+        "b652b86c6a7758907b76ccb422d20bb6d92cc38e": "2015-11-03"
+    },
+    "cassandra": {
+        "b8c9ad4a9b48af6bcb82b714942cbbcc0b41a6a2": "2011-04-29",
+        "fbe19b8ad7cd01f810109731b64acaaa4edf8db2": "2013-10-03",
+        "8ec1da211830762ebf571f12d9cbd505d2a1fada": "2015-04-06",
+        "6c29ee84a2f62ccd05c328bbaa0c364eb1a7a821": "2017-09-30"
+    },
+    "cayenne": {
+        "4e3e4696293fccc44bf104927c859a61f686ae50": "2009-04-05",
+        "876f16d40cfaa04fad57ac42b26d0ecee0dacaa8": "2011-11-28",
+        "12eaf99aba118c340e9e1855fb2e8af9061c0f7c": "2013-09-13",
+        "9422b9802aa125ef6ce329d6ed83fd751dc30119": "2016-10-02"
+    },
+    "clerezza": {
+        "fa2ad34a55dc7d08d66d0910bf9f39f4eed71157": "2012-07-18",
+        "7a50b7667ec4ba0941dacda3bdb645429ba4457d": "2019-11-04"
+    },
+    "commons-bcel": {
+        "b895f0b47405bbe1181c968dfb092129b97cb379": "2006-08-30",
+        "1558c715dfa9a7608ffa0232410d44b088c2972d": "2017-12-09"
+    },
+    "commons-beanutils": {
+        "5b8cd1c828f6a301112f19b9c57f495ead3889bf": "2004-10-17",
+        "d1e1482c5e6c188418059f7a63d09369185c0a5c": "2015-11-14"
+    },
+    "commons-codec": {
+        "981c0002d5accb9ebc056b7a34025fd814c4e17f": "2009-01-20",
+        "ca8968be63712c1dcce006a6d6ee9ddcef0e0a51": "2015-02-24",
+        "1b7ca880bef55ce8050e0b8dd5ead26f9a41950f": "2019-12-09"
+    },
+    "commons-collections": {
+        "82db8c71956aa485c61f661b1f954df57265bdb6": "2004-05-29",
+        "767a23ffdaf53b9e02da651ea2c4adeb3067caa8": "2010-09-30",
+        "527213decc04c4b45393cd0f67e96cb7a67a8f66": "2014-05-06",
+        "d5bf76870f507944d5e0e68ce77d8ac974968c03": "2020-02-16"
+    },
+    "commons-compress": {
+        "5c05b49cf407a34bbbaf2818e26b7bf00471d4c7": "2012-03-24",
+        "687b360f8c6d9ba2fd7dcf399cae9eb9e49b49dd": "2016-03-05",
+        "44980ffc7a0f0a7052e61b6ddb3a873d3d27f287": "2018-04-29"
+    },
+    "commons-configuration": {
+        "53289040e06ba2289764089c3729ae9202be6388": "2006-08-16",
+        "ef066ec3ed9f5643a6ea11063ac25b22e5485667": "2010-01-27",
+        "fd40520c0a0abe377ff46589a875e47f7e58f62d": "2013-01-20",
+        "389bd1618d63589f4e97105b5e90d4a807562447": "2017-04-20"
+    },
+    "commons-csv": {
+        "f2e3665185154805595496306aa74b3a2dbb64f7": "2014-09-16",
+        "d467e41a8faa4e3d528d94fc41b7dca8462b1622": "2020-09-19"
+    },
+    "commons-dbcp": {
+        "97779e6776e4f2f2e67ef54605c97803cd6a7ffc": "2007-04-03",
+        "ddf17a1b225773c1385be2d264eb5627876deed5": "2014-02-15",
+        "334784e3043cadaeaa626f792c3f62ac7b697927": "2018-07-15"
+    },
+    "commons-digester": {
+        "0f7e2dcd6589e8928999fdd5c44b2a5ff60e74c5": "2004-10-26",
+        "1797f6b90e7ef13692fc6e301cea9e3db3777700": "2012-12-23"
+    },
+    "commons-exec": {
+        "9b02457e97657c8f93cd28e8f1e77f02cb78a9d1": "2016-11-16"
+    },
+    "commons-fileupload": {
+        "8a8a7a9d6a386919a33b9709bae60e7ae61da6f0": "2008-01-12",
+        "eae5a510b70af9d3b2a54141c0ed82219894c9cf": "2021-01-08"
+    },
+    "commons-imaging": {
+        "afdff25ff4193a0d49db24111b057c73a1764712": "2015-01-04",
+        "41aea8db135c135621e97d74f2aea2b8071010cb": "2020-12-29"
+    },
+    "commons-io": {
+        "6040c8542dee335267d8a3f76c92d3a8a0b57d43": "2006-12-30",
+        "a4c94636dcb45e3d2bf73977f844fa538e30f646": "2013-01-31",
+        "9d432121e1c60557da3e159252a88885944e5f00": "2016-11-05"
+    },
+    "commons-jcs": {
+        "b237cabc622cc9767a3f8019214ae868432c00fd": "2008-10-10",
+        "e95e0ef149ae62d38738aa5d54c2d18d466362fc": "2017-06-14"
+    },
+    "commons-jelly": {
+        "7730f570ff9c857005e0f125116e6bbcc7f64af9": "2005-05-01"
+    },
+    "commons-jexl": {
+        "ee826dd840dff671eeba1507ed811e66db763bc0": "2009-10-20",
+        "5045ceab035da9842527bbe22ff3a254483c4031": "2017-07-01",
+        "8c45a03982972f4d46e4b420db84f134d254c1e3": "2020-06-18"
+    },
+    "commons-lang": {
+        "1e9fbb7f10533a674f7d8cc2e110f3d4e7b0cef7": "2005-01-30",
+        "6f27e9bbd119e419fa417b9446abe7aae0fb9624": "2008-09-04",
+        "80a39fba9b1df6b208e57f4dea84c0f24e311a82": "2010-11-07",
+        "97f67d717b965e1cd01f194819722eefe9155fa5": "2014-03-30"
+    },
+    "commons-logging": {
+        "92ab2ee721bff7fab2a68684f547656e9e4e03e0": "2006-05-23"
+    },
+    "commons-math": {
+        "05195b77ca8d86fbb4fdd9216f436d8b7f3a57de": "2006-11-19",
+        "7dd8773ea379190e3dc062da7088e8ef51389214": "2009-09-25",
+        "5ce6c97bcced402f9b5a8d54a3242e1ba8dbb9d7": "2011-05-19",
+        "7573e9eec065ac1ccc2134aa751a191da3ca3dff": "2013-12-08"
+    },
+    "commons-net": {
+        "e321b9be6df156d9a705c084aded741e1ce1ba6f": "2006-11-02",
+        "54b53793a5f46eed7648ff3d2236eb114c4f1121": "2012-10-09",
+        "f79c0c730bd933f96e9b9e5cd821527dff91c885": "2016-11-08"
+    },
+    "commons-pool": {
+        "6128ba3d59131eba1fb14c6afb97e7acf34b6956": "2008-05-23",
+        "e02d642bb9fcb8be60d1bb62a83d0e731ccf8710": "2014-02-21",
+        "721b335a239125549fde0b4be5c0d764541ceea6": "2019-02-14"
+    },
+    "commons-rdf": {},
+    "commons-scxml": {
+        "f2a1087279dc5b1464c0a71bd5899f7ab8f0f30c": "2009-08-07"
+    },
+    "commons-validator": {
+        "675b1f5b4f7a4fe26fa5aacb7827ed16fd029662": "2006-08-18",
+        "8d0b6a146f9a60339b4db581b7697deaaf1b252b": "2018-05-15"
+    },
+    "commons-vfs": {
+        "70abf1063461a6eb4af872387f79ac07abb7c6e1": "2006-10-06",
+        "19919e8da1d7f65d3b8653ad2e73c30e215fe7a7": "2012-11-14",
+        "6d6b3c231f00b35fe8e09cdea3a55094f7570ebb": "2017-03-19"
+    },
+    "creadur-rat": {
+        "16906525aabd5d4fac11e14491f651887ab4d962": "2014-08-16"
+    },
+    "crunch": {
+        "d053d262418f7332e8aba809e7cb3b3381d07bb2": "2014-01-22",
+        "07458f78282e1b55aee90960818f5fcb35dae5c0": "2019-01-23"
+    },
+    "curator": {
+        "ce456d2df24c9c64108d1c40e111b66a7e00e3ca": "2014-02-15",
+        "9febe31899126ca615117a49fa4c4385bf6498a8": "2017-04-10",
+        "c05a61bb58e5625fa3ca29871d0d9971271fcf49": "2020-01-18"
+    },
+    "cxf-fediz": {
+        "199cdd261ddedb5569949da634e184154aa2e758": "2015-04-24",
+        "c4a489997a50dc64c2dec4bd8ccfaf269a38c81e": "2018-05-17",
+        "63fb926f9b006ecdf0b24d1ec93bbecf90116b5d": "2020-06-05"
+    },
+    "cxf": {
+        "8f9d97de87d8ff15d99ac5495d3e4abbc8780c26": "2010-06-18",
+        "4f13fedb889f9d965d744bc29d77e336c4151754": "2012-11-18",
+        "68a546b082cc00a6dded3f8a4d3037b4fdfefee6": "2014-05-23",
+        "495ab0ae875c32c9487c927d1a2935f4b00293d5": "2016-11-18"
+    },
+    "db-jdo": {
+        "3615c3bf01cde872242a8c86471e2fa5fcadc0d7": "2007-10-20",
+        "14baa5d30a5ba9e2e0bb02059ae595c12318eaa9": "2011-07-28",
+        "59c6c72e9e840e568db0f75c42151f5abe0b3a52": "2014-09-19"
+    },
+    "deltaspike": {
+        "ebb464d20e0dbdaf4b5db0713f3d886cfcf0096e": "2014-05-11",
+        "1cfe5dc46695716cdbcc6184fcbaaef2bb0c68c2": "2017-01-24",
+        "d781dc2027a871d51688c61b37091b73e6af5c7e": "2020-02-05"
+    },
+    "directory-fortress-core": {
+        "64bfbe651ba524493d3014ae613241951b1a740c": "2015-01-01",
+        "14ccee5b006fa3ae898b65f460c47309fd965deb": "2019-10-21"
+    },
+    "directory-kerby": {
+        "5b378597485b4d81c337b1996791c1009f759067": "2016-08-25"
+    },
+    "directory-ldap-api": {
+        "5c0caee8b2e2ca22308d6800131840f7a987b389": "2008-05-25",
+        "b36841fcb3da786f5955cfb24a7f3391c4b41e8e": "2010-11-18",
+        "4330f7475521e50538ce129b2eb387890ea38b01": "2012-06-28",
+        "995c08752c55869fd6f2e655ea8f2735bcf36765": "2015-10-10"
+    },
+    "directory-server": {
+        "fc04f009561e6fbee705529610e617b7ba06ace2": "2006-09-14",
+        "2fccf043367dc4745ff37b6409cf8df41fc9021e": "2009-02-21",
+        "e947f4a2a68f51f89d69536449f71ff497b65324": "2010-09-05",
+        "249ac5c8bd3e9e3eb94381e5d37527ffba215121": "2013-03-08"
+    },
+    "directory-studio": {
+        "30d4cbe6e656311ce5ab6321294841e767943a48": "2009-04-17",
+        "1d624571347ea85ec903492862091265b44e8ad5": "2012-03-30",
+        "14808c016ba3d559c3d7840b31fa1c78f2d1ec50": "2015-02-21"
+    },
+    "drill": {
+        "c71ec6760ace959146174489e9551666880deb69": "2015-04-22",
+        "a62f96d944c7bb63d2bfdaec10ff571153b071c9": "2017-09-20",
+        "b30830ab165d378ff55a9a215f98183d35b17ccd": "2019-03-25"
+    },
+    "druid": {
+        "3d27747f7e31a46da89c83a1f5c5a41466984ea2": "2014-12-18",
+        "000b0ffed7ceded2361917918727f78485489d7e": "2017-05-20",
+        "03df481c9ca9a9560ef0cab9580fa7d029cc9b1a": "2018-11-23"
+    },
+    "dubbo-hessian-lite": {
+        "497803c836e46ede3a91e79865eef0fe567e4ea9": "2018-04-08"
+    },
+    "dubbo": {
+        "497803c836e46ede3a91e79865eef0fe567e4ea9": "2018-04-08",
+        "4808d7bff327513d2a7fcb354d8b367973463d2d": "2020-09-17"
+    },
+    "eagle": {},
+    "empire-db": {
+        "394072c717162aee8324cc500b2425b58be72c9f": "2012-04-20",
+        "933dce5536fe157cd6b5e924a2c623acfb6cb083": "2019-01-27"
+    },
+    "falcon": {
+        "4b6abff01955a903f2647dc541c542716d13acf4": "2014-08-08",
+        "51f1ec9c347603be348bb14875946ac2992125e7": "2017-03-09"
+    },
+    "fineract": {
+        "b2bf8cbe95d993f13a41be6532614ccd5c6dbe37": "2014-06-27",
+        "77f9d5cb9565c0694bfd716a4546a5abab7caa2a": "2017-01-19",
+        "1ee141bb87321e24c4ef5308d45399aa561200aa": "2019-02-17"
+    },
+    "flink": {
+        "0a4ef24df305a0c2a61fae19d912e7d725d4858d": "2013-02-11",
+        "601e8c607d974ef96e45d1dc3d2be367f5ddfb32": "2015-09-06",
+        "42fd6cae68ea98668bac30cb02206a21852d3528": "2017-03-09",
+        "60d9b96456f142f8d18d5882016840a00159403e": "2019-09-04"
+    },
+    "flume": {
+        "8acd54bb1089cc7b620dfd0c9ef9c828de1cc89c": "2013-12-20",
+        "c570a51b3c53e4899d16dd623e19a0d939518dd2": "2017-07-12"
+    },
+    "fluo": {
+        "0d3acf85c996f692b474aab6958d860d0bb6199c": "2016-09-13"
+    },
+    "freemarker": {
+        "b26819978bb29b5ef5c8143a14d3d1646244b8b7": "2015-07-12",
+        "a48b939f6bf1faa48bb09be2dfb1ee486550a464": "2018-09-26"
+    },
+    "geode": {
+        "d77d69f65677bb3e9e7babb316a2bd84cbe9991c": "2017-05-28",
+        "81987fcda738707ef90b7355e3477d57e6e0d9b0": "2019-11-05"
+    },
+    "giraph": {
+        "52b7e5d6e9afd6b9f129be8dcbf9ebe53e5383db": "2013-04-20",
+        "13b85590ff0d482702ee5dbfcd02ab57e17e24b4": "2016-07-26"
+    },
+    "gora": {
+        "492a78fa6d892f314c5921899d5ce631683a4fb4": "2014-03-07",
+        "7545170df8047ea6127660c1750e1d0b59044e49": "2018-06-06"
+    },
+    "hadoop-ozone": {
+        "a2d650a2ebe16e1c51195b6aaca7afb983c382e7": "2020-05-15"
+    },
+    "hadoop": {
+        "bd40a6ec49d467258fc4b3354a457e0148da0256": "2008-04-13",
+        "f3a80fdc3cfe64b05aa9d3f8f5c7e0bb7fe2d223": "2010-09-17",
+        "39775dca68643b37a3b9a5ae7bc8eea1418f60d1": "2012-03-25",
+        "cb5ba73bf65b137f21304e7d109352636733762a": "2014-09-19"
+    },
+    "hama": {
+        "e0df899a4d81512b18a7e16919c2aa2c8c4338c7": "2011-08-18",
+        "9e9d7eaafb02be8eea16b8bd24f15847a1d8337c": "2014-04-06"
+    },
+    "hbase": {
+        "05d71eb093e4469ea7503ffefb34b2d602ebdcfa": "2009-06-20",
+        "97cc0d6ba6bb9d3e83820067123025b422a1dd51": "2011-11-20",
+        "0e2e4a1134bcce4ebc9441c81e4bd3f9097b0924": "2013-05-25",
+        "d760ee998952cab1f57f2936b56b70b0f0486f26": "2015-11-19"
+    },
+    "helix": {
+        "71c62c4d568d218b45b69b4777d5204d147864ec": "2013-09-27",
+        "c7eccf7cdbc3b51fa09bf01ad719410835805ca8": "2016-09-12",
+        "94ac4253bb6a35f8ad895200ba6b050a576d4198": "2018-04-16",
+        "2e30348d1447f0a107e6c19f59e38d37662787fa": "2020-12-03"
+    },
+    "hive": {
+        "f9251b417e113ae3d77091932478ed53223acecb": "2010-12-16",
+        "ad46cdaf400980453cb4bc7c93db429b142a6f6c": "2013-05-17",
+        "fbcef73ccd0ff740329d5ecaa94c57ad20212a0f": "2014-11-23",
+        "3f25911a6ad3183bfa66460d258f2de44039a9af": "2017-05-15"
+    },
+    "httpcomponents-client": {
+        "e7eacf8764c753d1e12733a7637075a90a865e52": "2009-04-05",
+        "647e4dc314876a103dcd136447b64db137c6ba28": "2012-02-14",
+        "ebc83e74d2c99272137d8b5fd2761fc886590c94": "2013-11-06",
+        "c58288c9af339343a4433888a73f70669c2556ff": "2017-03-28"
+    },
+    "httpcomponents-core": {
+        "6608186fa96e0a5a589be64309e099cf64820e2b": "2007-07-21",
+        "c7ec76e549f0b2315036bfaeda995c67df8cd989": "2010-08-02",
+        "105fa6c8b6e763a11daa641bcb82caac8ee2372d": "2012-07-28",
+        "f785e5d852b1474797c7c2c5fcd940a795366b5c": "2016-01-31"
+    },
+    "incubator-brooklyn": {
+        "bb55b74e782f2c088d101affc83ffbbf11d1a62c": "2013-08-14",
+        "a82058508bab89533a37704341b4f72056491767": "2016-01-30"
+    },
+    "incubator-datasketches-java": {
+        "b659049f386193f4e6c863750073c48ab8c0e9db": "2017-11-26",
+        "7afa00a3bc3435866f63e1cabc0b2f3cf987fa4c": "2020-11-23"
+    },
+    "incubator-dolphinscheduler": {},
+    "incubator-druid": {
+        "3d27747f7e31a46da89c83a1f5c5a41466984ea2": "2014-12-18",
+        "000b0ffed7ceded2361917918727f78485489d7e": "2017-05-20",
+        "03df481c9ca9a9560ef0cab9580fa7d029cc9b1a": "2018-11-23"
+    },
+    "incubator-gobblin": {
+        "38fbb606d2c647f4a017fa242d5d7d9c636432f9": "2016-04-21",
+        "62c2d2d6f9e4204a785adf6eaccdd22732570a08": "2018-10-12",
+        "3bdad1148d86d479f0a27172a75f8bccda15371f": "2020-05-08"
+    },
+    "incubator-hivemall": {
+        "77d783adefe2400ffffed4841ef99b88b3b515d0": "2016-10-22"
+    },
+    "incubator-iotdb": {
+        "2278902729eb0e0e332bd9d765ee55d0e29853c7": "2019-12-19"
+    },
+    "incubator-pinot": {
+        "74a8c2a53ce3f584e08c3b2b2cfcf5d0a7a48f1a": "2017-01-06",
+        "49d8fa7907efc4192c3ecd5fef67c33e657c39f5": "2019-07-05",
+        "ce1a6462084dfa05d9b8c2b57a23a9c8274725e4": "2021-01-08"
+    },
+    "incubator-retired-edgent": {},
+    "incubator-retired-wave": {
+        "1a4a7ff5d7067437f54de741f4c09fa59429c14d": "2015-07-10"
+    },
+    "incubator-shardingsphere-example": {},
+    "incubator-shardingsphere": {
+        "fba5b2dbd7ebe6df5f080c2a35d29ca750c2a7cf": "2018-07-15",
+        "cfc0195deaa587c1e03c3d4cc2168154ca32a58f": "2020-12-19"
+    },
+    "incubator-tamaya-extensions": {
+        "668a36eb2a20734e2a7db956f79c24429108f5fe": "2017-04-18"
+    },
+    "incubator-tamaya": {
+        "eed89f3e4bbc6b860ffab841d7f9778301d6afa5": "2017-03-26"
+    },
+    "incubator-taverna-common-activities": {
+        "86d87cf0b4ced8e363ceb8b3859da9a957345c29": "2013-06-25"
+    },
+    "incubator-taverna-engine": {
+        "d55abdac47112c1a8129efdf69fe1701b170485c": "2012-03-12"
+    },
+    "incubator-taverna-language": {
+        "253d0bffc7d9723930ca0f810e9df8c518dce555": "2014-05-08"
+    },
+    "incubator-taverna-workbench": {
+        "ed0ece1cdc67d5259ff59265f941d46138f704e4": "2013-02-21"
+    },
+    "james-project": {
+        "c166ccea52591ee1c916cdbc27cf487ef68e0a81": "2015-11-04",
+        "5e10c35d41ee10dd1717905314786a4937d0f71d": "2018-05-01",
+        "eeddfcfc26e641ae8a1429ec042e4aa26d34e899": "2019-11-14"
+    },
+    "jclouds-labs": {
+        "a61083aeaa577d962583926e2ee0d7a0f1c68fe5": "2014-09-08",
+        "670492fba3721b29cf6d6c7e4c91422221b384bc": "2017-11-25"
+    },
+    "jclouds": {
+        "fec28774da709e2189ba563fc3e845741acea497": "2011-07-30",
+        "bdfd1facb9f2aa5f1ea09f72eb3f1491e503a2ae": "2014-12-29",
+        "edde721937115beeee01ea4076d60b4ecf381807": "2015-07-17",
+        "c2b76d1d4221d2dec5ed0119c28d14e32ca35cad": "2018-03-26"
+    },
+    "jmeter": {
+        "a2ae5e70d10e601a699b9f45892c90310587144b": "2003-06-01",
+        "711a9ac40fa390918df2fae4cf7909f958cce3ac": "2006-01-13",
+        "22be8d514146e9c8bf8a2eaa4020d923c51350ec": "2007-11-25",
+        "2ffc7e255514fe84637f7d68da69d140c69970d6": "2010-10-29"
+    },
+    "juddi": {
+        "9c9b093b01f91a3ed61dc05c8d3d9096c7d76d8c": "2009-01-14",
+        "ef68a856113cb8e6e7dfbd6b3b5d23fa401c36fc": "2013-07-19",
+        "66044ab9e6a88712a7c8e90de57de33110ec6feb": "2017-03-05"
+    },
+    "karaf-cellar": {
+        "51ec0db1189337a803f492884054150189a7d35b": "2015-12-02"
+    },
+    "karaf-eik": {},
+    "karaf-jclouds": {
+        "4ff123910d7060ebc8723d23f95998e802883d5d": "2014-09-26"
+    },
+    "karaf": {
+        "b8de2090cbefd66c44d835774bb98f43887f11cd": "2007-11-25",
+        "3c6302eb13aa7e685985d913054ebc162f9e9926": "2010-05-01",
+        "8b42bb224a7898342202962260ec8bd88f7e4c66": "2011-11-06",
+        "6fe4f266402b60258a682f4a76c96e4958bde688": "2014-05-01"
+    },
+    "knox": {
+        "fd88b115502f4b9fc9f3efae4b3c54d6e64246aa": "2015-04-27",
+        "a587795d455df1a9c3b1d8d0ef2a23f965dd2127": "2018-03-22",
+        "e305987524273dfc1a4cac23004f8017b652e838": "2019-10-11"
+    },
+    "lens": {
+        "fe44e69fdbdff24b3344071a268e7602077575cc": "2015-08-28",
+        "0f77b8d5e07bfda76fc73c846be624873aa54a77": "2019-01-16"
+    },
+    "logging-chainsaw": {
+        "f19bae4126d9ed56231b103279f73677852e94bc": "2007-06-10"
+    },
+    "logging-log4j": {
+        "23ab0bdd207ee9d9ba127e26bace5ad883cf121e": "2013-10-31",
+        "93acc51ba4b36b0e4fb1c30038e468a8f3c5fc12": "2016-05-22",
+        "0c3288d837fdbde38b702cb8d98cb7f7d1171512": "2017-11-19",
+        "1d4732133eae1bb19c55e044fe6274fabf0fcafb": "2020-06-07"
+    },
+    "mahout": {
+        "ac6f7580a59d9a44ac8f919ffd75d1c98621aef3": "2010-05-14",
+        "6413ec447742fbb8a86030a7ce9cccdcc9e32ef2": "2012-11-01",
+        "ccaec1b267d768e890695dd36c49a34d621e1e73": "2014-07-25",
+        "045e132f0e4d3bea31652fda61c721d2da212c01": "2019-05-17"
+    },
+    "marmotta": {
+        "364a14189a0594968852f876116a4bcfdfcc29ad": "2015-12-13"
+    },
+    "maven-archetype": {
+        "a0f12708218fc7e959e6793d13c42634572127ac": "2010-10-24",
+        "165b5f227968db9d2f91d14b814164fb45dfaecc": "2020-07-15"
+    },
+    "maven-assembly-plugin": {
+        "3b9ac629227b3477db81c980bac994315a66cab2": "2008-09-25",
+        "380d025bb56fba167dc63fce5749005a613e6d4f": "2015-12-15"
+    },
+    "maven-dependency-plugin": {
+        "6df79fa9fe98bb86c8b927b4c08c4cc8c96dcc9b": "2011-04-21",
+        "94d53f6c66a01f4bed09f95dc9fb6c3cc2fa7fa7": "2017-08-04"
+    },
+    "maven-doxia": {
+        "b3a5e04294b35863896199954067317e69c8ab0a": "2009-02-22",
+        "12801e2e4183baa543d77fec26c2bd0dd88ef447": "2017-02-04"
+    },
+    "maven-integration-testing": {
+        "edc85258554155f3c84be26a5c688404e2ab3209": "2009-07-12",
+        "fc3064c383f31e374a173cacbafd8fac3b384a93": "2013-12-20",
+        "f6ad6509ee5e5f95ec84f30dd375c682ff48fb21": "2017-02-04"
+    },
+    "maven-invoker-plugin": {
+        "ef8ede9ab0ed82341e74693c468abb154c02d7f9": "2014-08-24"
+    },
+    "maven-javadoc-plugin": {
+        "cbdc90eb4aa9759eb9e9800e17ab82fa8209b865": "2009-10-13",
+        "8d0b6d479f70d1f617a43ab61354cd1c4ba699d1": "2018-03-13"
+    },
+    "maven-plugin-tools": {
+        "bb948bfbc8a837bc7d739626a7c3441405d386e2": "2014-06-01"
+    },
+    "maven-release": {
+        "1438ef2f157d1417681d55684f67ee7dfb706955": "2011-03-31",
+        "8659bb9386b44129d78774b53d63b7d828657a33": "2019-04-21"
+    },
+    "maven-scm": {
+        "fb97fdedb6c39e5d0bd14325702066ce3375b16b": "2008-04-05",
+        "fa8674cc620c8253c03e8113da68814e03938464": "2013-01-03",
+        "6f7dd0c6eebab9da4899b489e8d78ba6ce6195bf": "2017-12-01"
+    },
+    "maven-surefire": {
+        "38ce232a8b75be47cb0e9871d9eb62b357610048": "2008-12-23",
+        "c513cbc5b76619a6164e2ef3a79511d81dea878b": "2013-03-06",
+        "e53ab1229add11b89532ba054312c870ef77ab3c": "2015-07-11",
+        "7b1f70c81a578e283593cab5963e7d85b68bd853": "2018-12-30"
+    },
+    "maven-wagon": {
+        "1031e89b032f48ba14c7ce98017c7d512aeaa3bb": "2008-08-15",
+        "7fd0dca33656e5f961e9234258db9e3a2cec0d9f": "2016-12-27"
+    },
+    "maven": {
+        "435cd7b8de08acf22ddccf89c96c7d0c27140f27": "2006-02-02",
+        "8e4b27571d167e64612aeb758237c258125d2b8a": "2008-08-02",
+        "862e8875d183181675103b8b1b0cfbc0a38612f3": "2010-02-13",
+        "36bee64938e32f402b990c5f5ce036fcf8c1ca1e": "2012-12-29"
+    },
+    "mina-ftpserver": {
+        "2b839594299f8d4aa2514b9900f6b78fdda84660": "2008-09-11"
+    },
+    "mina-sshd": {
+        "66698cad7ecfed67a4013e8a26a59586505bf750": "2015-06-21",
+        "1e8254794a6a12fc7abe20f8d5087f4f16691adb": "2018-08-29",
+        "33c9ce5d3cc188bd6dee9bda74e38e79462692cf": "2020-08-01"
+    },
+    "mina": {
+        "f3e368e3f4e4c8eaa176d12bf0cdc6063fd1990c": "2008-05-23",
+        "a1a3b2780ff014c417cd308045fa4ab3ceeaa056": "2012-10-05",
+        "9ed90e0d3871391564e8928d1a5e3b5f3dbbb58c": "2016-08-25"
+    },
+    "myfaces-extcdi": {
+        "2152d6bcaa3123c82bed4627638aa07771866826": "2013-04-09"
+    },
+    "myfaces-trinidad": {
+        "719249e124143922c7d7202eab398a08244b8932": "2008-07-15",
+        "0de5de409211237544906e1c9e7a76b60af885ed": "2011-01-07",
+        "ef62205421630e176b4b8297b44886b6404f89f8": "2012-08-14"
+    },
+    "myfaces": {
+        "de5c3be45af8280989bad4135d0fff3b67a67295": "2008-07-13",
+        "5178e5cf7b7bfe92adac15f11cdcd27539b9eb0a": "2011-02-24",
+        "855432d23a00d5caa442a1fa4c21210c4f5b46e9": "2012-10-12",
+        "f06b6511adad44f47a7c0a704a43711e9a96358d": "2017-01-27"
+    },
+    "netbeans-html4j": {},
+    "netbeans-mavenutils-nb-repository-plugin": {
+        "ccd8bb7a3613aba6f3a934893f5d640b88cf3904": "2011-03-01",
+        "251f857b4e3a8eac66fea1d8b73f2624f345831a": "2019-11-27"
+    },
+    "netbeans-mavenutils-nbm-maven-plugin": {
+        "ccd8bb7a3613aba6f3a934893f5d640b88cf3904": "2011-03-01",
+        "fc7cfdd411176ff0b07472f5aa6c06bc12ab918a": "2019-10-07"
+    },
+    "netbeans-mavenutils-nbm-shared": {
+        "ccd8bb7a3613aba6f3a934893f5d640b88cf3904": "2011-03-01"
+    },
+    "nifi": {
+        "1811ba568152d0586c29861899e7ceb2c6b06d24": "2017-01-23",
+        "e18d9ce1e8d576a21630dcd67e9260ff5c3f9bf0": "2019-07-01",
+        "b523698534679938865a3ac401d901e8db411225": "2021-01-07"
+    },
+    "nutch": {
+        "d0c3c92ad3108b3b8d5109712d10839327fbdd6d": "2007-09-13",
+        "4d75bfecd2840605dedca889ad36fd833a7b336a": "2011-09-14",
+        "6a2e867a29fbe95f5d6261e77a46585600c67372": "2013-05-09",
+        "bf65d2f0eb0e26823ef9c7dbad1e4f49b31d581b": "2016-01-22"
+    },
+    "ode": {
+        "dd7dd8c91ac3e0ac7ca63cef19e432d3eba8a763": "2008-08-29",
+        "39016d9b7cc46c52f490db05ce6509253cea46a0": "2012-11-26",
+        "b162baebe38b04e9914610f6b8c00832ef77a0e5": "2016-10-20"
+    },
+    "odftoolkit": {},
+    "olingo-odata4": {
+        "d566b186aeef42a20e02de0f176f054e27960733": "2016-02-22"
+    },
+    "oodt": {
+        "61b55a308490a1de10a27bea35bd19f690e7d603": "2012-10-16",
+        "89d6bf13a6168236dd7d43224560f666b8f13839": "2016-07-11"
+    },
+    "oozie": {
+        "0c2130a0c4354e6f821893dc0df5ff8e3aa8cfc2": "2013-11-26",
+        "349a434a5284f1fac251c5652f783a0af53a0b1e": "2016-07-23",
+        "e26641db469533ac059923c7ed28a5c74f71ad20": "2018-02-14"
+    },
+    "openjpa": {
+        "322689a573483d14cdd807b5881f707a1ff8a3f9": "2008-08-22",
+        "ee92abbdd0589e099251f63d97fe2e7afe6430d1": "2011-01-30",
+        "1e28f8a5a99950a392e4985efaf9b549afa968ec": "2012-08-23",
+        "323cbb8c73f6f5b147ad9d7583fc36154b29b561": "2016-06-23"
+    },
+    "openmeetings": {
+        "5099123f8d101cac8d418fbeb99f42ca3dae49eb": "2018-04-01",
+        "551ce3f11e2f290d8a7d45b108c89c9cd889770b": "2020-10-25"
+    },
+    "opennlp": {
+        "83c5c7ef3c5035f11c006640ef3449736c656da7": "2014-03-13",
+        "ce8d0f7a47f7caba8ab937389c59b68b20f6994a": "2018-04-20"
+    },
+    "openwebbeans": {
+        "aec06c111a4c1a9b8e61fcc3d1d5ddc9c7233159": "2011-02-13",
+        "d626c040be304a06fbc74dccb5d9a12baa2119c5": "2014-04-05",
+        "0541e38a25ee5ca0cac884f53a1705f1aa9a6a1f": "2016-10-23"
+    },
+    "parquet-mr": {
+        "a635f214af8f4e4e24bbd36934e58b1decf628cc": "2015-01-30",
+        "811310d01bfe3dcb4ca95aa8eed9ed6d806bf7c1": "2019-03-19"
+    },
+    "phoenix-omid": {
+        "835a6f86bf8d24b3498f7c469190e8ce12df258b": "2015-07-23"
+    },
+    "phoenix": {
+        "5baac0be4371858de509fde66f847ffccdf1abc2": "2016-03-24",
+        "0ccb110079f8b66aff39a4cd9e995ea1daf200ae": "2018-08-23",
+        "44f85cb93a4468a855f6fb146a21b9f829475281": "2020-02-26"
+    },
+    "portals-pluto": {
+        "0835aba33b38d8008c4328c0fba09b657d222aa8": "2006-04-22",
+        "d491f3600af8b2206edd7647ecb56ef3d9c80ed9": "2009-05-08",
+        "7ea0707f4b4abb8a1e89ac6ff2dac46e72160f88": "2016-05-20"
+    },
+    "pulsar": {
+        "2fab7fe1be09cf938a9b64f9868a533c35f4eb20": "2018-11-09"
+    },
+    "qpid-broker-j": {
+        "721c673192179574a70eaf230f9d91b20e40fe4d": "2009-01-09",
+        "12d60b685c1818fa172135eb46099d2e7bb5658a": "2011-08-14",
+        "f040f8b26274f5683c8277c7e8395c21cd4f9268": "2013-02-16",
+        "d5e142c94cdba80d1615cfd12d97009b1cc01f46": "2015-09-13"
+    },
+    "qpid-jms-amqp-0-x": {
+        "721c673192179574a70eaf230f9d91b20e40fe4d": "2009-01-09",
+        "12d60b685c1818fa172135eb46099d2e7bb5658a": "2011-08-14",
+        "f040f8b26274f5683c8277c7e8395c21cd4f9268": "2013-02-16",
+        "d5e142c94cdba80d1615cfd12d97009b1cc01f46": "2015-09-13"
+    },
+    "qpid-jms": {
+        "a3d41816226a13e64e2f08a69fca1ae100558b7b": "2016-06-29",
+        "e793da9943fc6c2ccf6e01a6c60a8b97cfeeee8a": "2019-10-17"
+    },
+    "qpid-proton-j": {
+        "1301a49fb1dc5a693de250704bb89b8954f2a426": "2014-06-13",
+        "0a2d28e13978603f2a699a4bff91adf3dd90d309": "2016-12-03",
+        "1d42f5c6ceae90a3d9712d99f7f56d311bc9c338": "2020-11-13"
+    },
+    "rocketmq": {
+        "6e7df5573d4ea4d0e6f5b55fecc667bd4288126e": "2019-07-12"
+    },
+    "roller": {
+        "8c42f8315f6dcbef211799ecaf733ee335225267": "2007-09-21",
+        "59dd8f091dd1de36496678bad1a5c24d1c05221c": "2011-11-20",
+        "f835f13cc3e3e06f05038cabe3a75c08a99fe3e3": "2014-04-20",
+        "3a28709d350b0e7114f09e68cd47555f2658837f": "2020-02-22"
+    },
+    "royale-compiler": {
+        "8262f1db4024ce9b1fc8fb079456b43174a65e3e": "2015-04-15",
+        "3aab824921285c2cf50768314cd467ac1e48f355": "2017-10-08",
+        "4dade1a0500767a35b051829ebf2908254f22438": "2019-05-07"
+    },
+    "samza": {
+        "adf4f39af6666aeee1e8bc7f2c9ba6d208c6fa6e": "2015-12-08",
+        "b8058af0a2e665fd295b9469f77e66e9eb04bd1a": "2018-09-21",
+        "ae8bb2c44efdba3a2f7a9f77edc6ebfbe97f5fb8": "2020-04-17"
+    },
+    "sentry": {
+        "198bef5dd6061260c7c2f34fea27e434be4985ec": "2015-06-12",
+        "a4924edc79b26f937e3e5ea3584f0b4307dd4135": "2017-12-15"
+    },
+    "servicecomb-java-chassis": {
+        "ac122e7eb12517c673786aeb670d0176af2d0dc9": "2019-08-07"
+    },
+    "servicecomb-pack": {
+        "a8b24100a59a8ec9c917f89b1aa6978cc81e10df": "2019-12-07"
+    },
+    "servicemix-bundles": {
+        "9f86c4e9c7274dc16c8bb4cb2251816266ba8eb7": "2011-06-23",
+        "117473f0beaa976f6868b7767ac9628fd80fdc8a": "2014-11-14",
+        "a84b12b7977f7116167e120b30c061c2632a8ede": "2016-08-25",
+        "66dd1d599bf3377726f6c8127a560bf5cd992827": "2019-06-25"
+    },
+    "shiro": {
+        "2639fc7f71b25349fffc76857de5fab277fc578b": "2008-11-23",
+        "27544e9dc5b58207009d44e2f051c4bf18dade1a": "2012-10-30",
+        "16d785b38657b1ce8645b9055f2ec39f56a63bea": "2018-04-03"
+    },
+    "sis": {
+        "7e92ab7b5eb6a116852d6f758dc5eb3e942f5a19": "2014-06-29",
+        "334380c596ea2936aed3017aa476fc8e4af54c3f": "2017-01-15",
+        "cb95be32da75f9cd5e152b8edf667da71c6ef4de": "2018-08-05",
+        "c12f80c853a733b2e0c53a3e906b570921741cdb": "2021-01-29"
+    },
+    "skywalking": {
+        "e9147a64b8e8dbc5b3892e3918557b33ad186925": "2018-03-17",
+        "7a33122b6f3c2635cfcb6faebce6e6a831f9e939": "2020-08-23"
+    },
+    "sling-ide-tooling": {},
+    "sling-org-apache-sling-api": {
+        "880521bc89a75b089c8f950c726604a25141c685": "2014-10-13"
+    },
+    "sling-org-apache-sling-engine": {
+        "4989efff01b552d1aa7f35bb65c55ce141e1b81c": "2014-08-08"
+    },
+    "sling-org-apache-sling-event": {
+        "64feab9d3f778f50640b8a9a4a84a3015b75baac": "2011-02-21",
+        "a98f6bd4c5291795d27780880bffc2210039d3bf": "2017-08-04"
+    },
+    "sling-org-apache-sling-jcr-resource": {
+        "478bc4e66ef237864cbb0aff02659b27f9284d6c": "2012-08-01",
+        "3d4f21805e80997bc50a26f1db8a2f4fbc312781": "2018-09-03"
+    },
+    "sling-org-apache-sling-resourceresolver": {
+        "7e8b3f1a763ce5c7c4cd1303d2fb34de409c6ec8": "2016-03-17"
+    },
+    "sling-org-apache-sling-starter": {
+        "317a2f280196bec8621d6ef0abba291f10a388d1": "2013-04-15",
+        "f856a26363ca0c53ca0aaeefe97c1cb5017f41c1": "2016-03-15",
+        "fe5b898b8af8288e400761887f9bb4c1cbed04c5": "2018-01-08"
+    },
+    "sling-whiteboard": {
+        "aa11b3944c958ed26df1a92fcd83abec40edf9fe": "2020-08-13"
+    },
+    "sqoop": {
+        "9addddfe3f61f18d66909b751ddda02b94a1ec0b": "2013-10-18",
+        "0f13c474bf91f6609b9bdd7a1aa25b250f07e398": "2016-10-06",
+        "0216f7fbb7b71f610d02dfa95dafb2c81acbc690": "2019-03-18"
+    },
+    "storm": {
+        "8364b51c0a053e1b06229144d074f1af80e21927": "2013-12-07",
+        "b2c33e28654827c61f97f868fd1dccd7fa5d7810": "2016-05-13",
+        "1811351fdf199d5ddfe8037a445715239b2311fd": "2017-11-19",
+        "f5df89e6743b1f0dc832d7556f158045ac8acd1d": "2020-06-10"
+    },
+    "struts-sandbox": {
+        "0234f30c278e8c4299ee93c18237ec95a47976ee": "2004-10-01",
+        "098148c134f4f89fd4d2141442ce25633ecd4531": "2008-03-31"
+    },
+    "struts": {
+        "5d9bed17459174faf20cfbbb76c35e490b3ae4e8": "2008-06-14",
+        "d0bdf09e7decfa3843226bccbbae17e5b89fa0ee": "2011-11-10",
+        "5545efb2256519d2a8393669812744aa6a2ea022": "2013-07-28",
+        "e8b48f8bb4a0926bcc89e566f666c5b6b499c55b": "2016-07-08"
+    },
+    "synapse": {
+        "c0aedc66e25909737582146530f91ffd34b97d4d": "2006-05-10",
+        "9886a59cc9e06ea5d79daf96a55863874b59641c": "2008-11-02",
+        "ef99044f1692112a561cbfad5522e8cbaa29e814": "2010-05-30",
+        "236fe5880ef2f6b67c7481e373647baebb7d453c": "2015-08-29"
+    },
+    "syncope": {
+        "dd5ed2621dfd62995d516e189b6864a1fc6de5a4": "2012-07-26",
+        "498eb7ecd43143100700326bc9af14bea7ff0436": "2015-02-06",
+        "4545e3f26c8e8c2f0cb581de7d598f7ea6608a3b": "2016-08-12",
+        "dfd4048f525d00fa06f8122046f6adb833ec3d8b": "2019-02-08"
+    },
+    "systemml": {
+        "c5ac579c56359b17952837e3e18dd7c6f16beb85": "2014-04-12",
+        "062ebc67a821e12c7e3c04eab3b5d863242a7445": "2016-09-17",
+        "0aea2b5315b4300494c7653287afdc96f5626a2e": "2018-04-01",
+        "0ad0c991904cb6d84d62ce2c2a2d6077b4b3973d": "2020-12-26"
+    },
+    "tajo": {
+        "a755f51086e5f1fa2a927ee6d2a6c7e489a75cc6": "2014-04-11"
+    },
+    "tez": {
+        "1421f59683b27b04f20e5060b79ef239a1078401": "2015-06-27",
+        "3c7640d710710740a96a9c524f27a8dde4cfc09f": "2018-01-16",
+        "69a2bdeb19cbedb9f3d868f4e7231d3c92b98c75": "2020-07-31"
+    },
+    "tinkerpop": {
+        "ccc3bfc31cdf84f7a25dc1f6da89b9dc42f5490a": "2015-11-01",
+        "46e8532beb40e9e20c82c99da8dd8a7b8922c0b3": "2018-04-03",
+        "8e3e9908dc9d2b0e72cc5a8a526b7ecc28dab616": "2019-10-09"
+    },
+    "tomcat": {
+        "7f05cc102f3e61f8f810debe76a02e39b862d655": "2008-06-08",
+        "ad2b52c3dc8cbdbf5ee0f1864c35314e63ff56f3": "2010-11-20",
+        "692e17509d336b3ddcbaf91b520b1f31c79dff29": "2012-05-20",
+        "0deda1b58286f77ff50164b1749fd126f3050dea": "2014-11-16"
+    },
+    "tomee": {
+        "e0f03800980a72b7f40c21351177d4cf62c3eee6": "2008-05-16",
+        "a16de61b88a42a514fdc0ea13b30c155e4ca048e": "2010-12-17",
+        "80806d08318785f78feb6baba42477f8352e2d27": "2012-06-24",
+        "84f78f0cc2f23e8d50caa9177ec0c502aa701fb8": "2014-12-21"
+    },
+    "uima-uimaj": {
+        "62ec389d08692c4b8c88a1b4c64b989b1cade7f6": "2009-07-23",
+        "81a24f16df5e53f19c17581f1ade8bf3b1c9f549": "2012-11-21",
+        "e0b8ce8bd2d8252c0f1218bf88836e5cec3d2ba6": "2014-10-24",
+        "2f0c05becbf569a7f5ac9b6f7c08eccd8c8a8a5a": "2017-12-04"
+    },
+    "unomi": {
+        "2263da963dfa04cba367a7bf68f889445d9b74b5": "2016-11-25",
+        "efc9af5089c8729c95452a637597fe729a54cead": "2019-12-07"
+    },
+    "vxquery": {
+        "361202a0b37e3ed42637b2e549b7c188ef6b1dba": "2014-04-22"
+    },
+    "wicket": {
+        "8706ff6609fff94ff934e20aaab4fc9e93b5b666": "2006-11-19",
+        "af5cbad608d5cabf41cd2e2212f11daf88bc6cfc": "2009-05-03",
+        "10e77913a16a1e03c2f328b7d634c23e2e398ede": "2010-11-21",
+        "8b4532b3107b1dadc85cbb1e9684a76fd7e29b01": "2013-05-10"
+    },
+    "ws-axiom": {
+        "f7cf0b6146f3a25021b37fd3fb2ff7317edc774d": "2008-07-27",
+        "eb5e18321af15596bf05c4984ce4c47e27d8fd8f": "2011-10-30",
+        "6fa2ee6d23c5c0b8b4c99e130add73a56ba4e5ac": "2013-10-01",
+        "e75edcff775391347cc6ab0f0c8ddf6fa0217cc1": "2018-11-11"
+    },
+    "ws-wss4j": {
+        "3a230a21718ddda78b3bcac9d22292c94d996a01": "2007-04-28",
+        "6ccfd4a895fd21a9254e746e89a780f3ce41025d": "2011-05-22",
+        "35d5fbf7ddb82bbb4c8576f00be2962acee1df55": "2013-01-07",
+        "b8bbc1a947fb94c1e4217550bd0d779f3994ed1f": "2015-09-24"
+    },
+    "xalan-java": {
+        "07afae253b3706131505945ccd4e35f0a9d5b677": "2002-09-06",
+        "53d1327c80c8e7773a36b7b49e9afffa7ba0bb06": "2005-05-12"
+    }
+}
