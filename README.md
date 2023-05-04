@@ -48,24 +48,28 @@ We recommend using Python version 3.8.1, R version 4.3.1, and every Python requi
 ## Usage/Examples
 
 We have the following codes and fucntions available:
-- fetch_profiles/author_profiles.py
-    - author_profiles()
-- fetch_profiles/project_profiles.py
-    - project_profiles()
-- rhythms_tactics_identification/rhythms.py
-    - kruskal_wallis_clustering()
-- rhythms_tactics_identification/tactics.py
-    - dtw_clustering()
-- rhythm_tactics_profiles/tactic_profiles.py
-    - developer_profiles_clustering()
-    - project_profiles_clustering()
-- rhythm_tactics_profiles/rhythm_profiles.py
-    - developer_profiles_clustering()
-    - project_profiles_clustering()
-- code_smells_analysis.rhythm_smells.py
-    - fetch_overall()
-- code_smells_analysis.tactic_smells.py
-    - fetch_overall()
+- **Pre-Processing**:
+    - fetch_profiles/author_profiles.py
+        - author_profiles()
+    - fetch_profiles/project_profiles.py
+        - project_profiles()
+- **Research Question 1**:
+    - rhythms_tactics_identification/rhythms.py
+        - kruskal_wallis_clustering()
+    - rhythm_tactics_profiles/rhythm_profiles.py
+        - developer_profiles_clustering()
+        - project_profiles_clustering()
+- **Research Question 2:**
+    - rhythms_tactics_identification/tactics.py
+        - dtw_clustering()
+    - rhythm_tactics_profiles/tactic_profiles.py
+        - developer_profiles_clustering()
+        - project_profiles_clustering()
+- **Research Question 3:**
+    - code_smells_analysis.rhythm_smells.py
+        - fetch_overall()
+    - code_smells_analysis.tactic_smells.py
+        - fetch_overall()
 
 Below is an example of ho to run the functions in the root of the project
 ```javascript
