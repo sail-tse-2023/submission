@@ -80,7 +80,7 @@ rhythms_tactics_identification.rhythms.kruskal_wallis_clustering()
 
 ## Appendix
 
-The results of the manual validation are stored in the "appendix/validation" folder, which includes the results of the first validator (Shayan), the second validator (Yucan), and the resolved conflicts. Additionally, the refactoring types studied in this work are stored in the "appendix/refactoring_types_rminer.csv" file.
+The results of the manual validation are stored in the "appendix/validation" folder, which includes the results of the first validator, the second validator, and the resolved conflicts. Additionally, the refactoring types studied in this work are stored in the "appendix/refactoring_types_rminer.csv" file.
 
 
 
